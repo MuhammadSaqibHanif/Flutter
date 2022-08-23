@@ -3,6 +3,8 @@ import 'dart:convert';
 import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 
+import '../constants/index.dart';
+
 class Product with ChangeNotifier {
   final String id;
   final String title;
@@ -30,7 +32,7 @@ class Product with ChangeNotifier {
     isFavorite = !isFavorite;
     notifyListeners();
     final url =
-        'https://flutter-update.firebaseio.com/userFavorites/$userId/$id.json?auth=$token';
+        '${Constants.firebaseUrl}/userFavorites/$userId/$id.json?auth=$token';
     try {
       final response = await http.put(
         url,
