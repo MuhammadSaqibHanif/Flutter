@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.great_places">
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
    <application
         android:label="great_places"
         android:name="${applicationName}"
