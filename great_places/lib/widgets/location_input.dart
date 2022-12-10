@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:location/location.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
+import '../screens/map_screen.dart';
 import '../helpers/location_helper.dart';
 
 class LocationInput extends StatefulWidget {
@@ -15,9 +16,8 @@ class _LocationInputState extends State<LocationInput> {
   String _previewImageUrl = "";
 
   Future<void> _getCurrentUserLocation() async {
-    var locData = await Location().getLocation();
-
-    var staticMapImageUrl = LocationHelper.generateLocationPreviewImage(
+    final locData = await Location().getLocation();
+    final staticMapImageUrl = LocationHelper.generateLocationPreviewImage(
       latitude: locData.latitude as double,
       longitude: locData.longitude as double,
     );
@@ -27,10 +27,25 @@ class _LocationInputState extends State<LocationInput> {
     });
   }
 
+  Future<void> _selectOnMap() async {
+    final selectedLocation = await Navigator.of(context).push(
+      MaterialPageRoute(
+        fullscreenDialog: true,
+        builder: (ctx) => const MapScreen(
+          isSelecting: true,
+        ),
+      ),
+    );
+    if (selectedLocation == null) {
+      return;
+    }
+    // ...
+  }
+
   @override
   Widget build(BuildContext context) {
     return Column(
-      children: [
+      children: <Widget>[
         Container(
           alignment: Alignment.center,
           height: 370,
@@ -67,7 +82,7 @@ class _LocationInputState extends State<LocationInput> {
               ),
             ),
             TextButton.icon(
-              onPressed: () {},
+              onPressed: _selectOnMap,
               icon: const Icon(Icons.map),
               label: const Text(
                 "Select on map",
