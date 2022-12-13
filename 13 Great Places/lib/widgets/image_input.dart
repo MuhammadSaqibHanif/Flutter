@@ -47,7 +47,6 @@ class ImageInputState extends State<ImageInput> {
           decoration: BoxDecoration(
             border: Border.all(width: 1, color: Colors.grey),
           ),
-          alignment: Alignment.center,
           child: _storedImage != null
               ? Image.file(
                   _storedImage!,
@@ -58,8 +57,11 @@ class ImageInputState extends State<ImageInput> {
                   'No Image Taken',
                   textAlign: TextAlign.center,
                 ),
+          alignment: Alignment.center,
         ),
-        const SizedBox(width: 10),
+        SizedBox(
+          width: 10,
+        ),
         Expanded(
           child: ElevatedButton.icon(
             icon: const Icon(Icons.camera),
