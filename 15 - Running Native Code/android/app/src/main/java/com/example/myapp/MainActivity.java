@@ -14,7 +14,7 @@ import io.flutter.embedding.engine.FlutterEngine;
 import io.flutter.plugin.common.MethodChannel;
 
 public class MainActivity extends FlutterActivity {
-  private static final String CHANNEL = "course.flutter.dev/batter";
+  private static final String CHANNEL = "course.flutter.dev/battery";
 
   @Override
   public void configureFlutterEngine(@NonNull FlutterEngine flutterEngine) {
