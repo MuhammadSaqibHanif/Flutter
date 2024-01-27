@@ -25,7 +25,7 @@ class _QuestionsScreenState extends State<QuestionsScreen> {
     // currentQuestionIndex = currentQuestionIndex + 1;
     // currentQuestionIndex += 1;
     setState(() {
-      currentQuestionIndex++;
+      currentQuestionIndex++; // increments the value by 1
     });
   }
 
@@ -46,7 +46,7 @@ class _QuestionsScreenState extends State<QuestionsScreen> {
               style: GoogleFonts.lato(
                 fontSize: 24,
                 fontWeight: FontWeight.bold,
-                color: const Color.fromARGB(255, 121, 121, 233),
+                color: const Color.fromARGB(255, 201, 153, 251),
               ),
               textAlign: TextAlign.center,
             ),

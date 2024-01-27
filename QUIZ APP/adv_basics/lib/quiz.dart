@@ -19,7 +19,6 @@ class _QuizState extends State<Quiz> {
 
   void switchScreen() {
     setState(() {
-      selectedAnswers = [];
       activeScreen = 'questions-screen';
     });
   }
@@ -34,23 +33,31 @@ class _QuizState extends State<Quiz> {
     }
   }
 
+  void restartQuiz() {
+    setState(() {
+      selectedAnswers = [];
+      activeScreen = 'questions-screen';
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
     // final Widget screenwidget = activeScreen == 'start-screen'
     //     ? StartScreen(switchScreen)
     //     : const QuestionsScreen();
 
-    Widget screenwidget = StartScreen(switchScreen);
+    Widget screenWidget = StartScreen(switchScreen);
 
     if (activeScreen == 'questions-screen') {
-      screenwidget = QuestionsScreen(
+      screenWidget = QuestionsScreen(
         onSelectAnswer: chooseAnswer,
       );
     }
 
     if (activeScreen == 'results-screen') {
-      screenwidget = ResultsScreen(
+      screenWidget = ResultsScreen(
         chosenAnswers: selectedAnswers,
+        onRestart: restartQuiz,
       );
     }
 
@@ -60,14 +67,14 @@ class _QuizState extends State<Quiz> {
           decoration: const BoxDecoration(
             gradient: LinearGradient(
               colors: [
-                Color.fromARGB(255, 92, 41, 180),
-                Color.fromARGB(255, 52, 5, 134),
+                Color.fromARGB(255, 78, 13, 151),
+                Color.fromARGB(255, 107, 15, 168),
               ],
               begin: Alignment.topLeft,
               end: Alignment.bottomRight,
             ),
           ),
-          child: screenwidget,
+          child: screenWidget,
         ),
       ),
     );

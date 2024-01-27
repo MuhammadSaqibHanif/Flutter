@@ -7,7 +7,7 @@ class AnswerButton extends StatelessWidget {
     required this.answerText,
   });
 
-  final Function() onTap;
+  final void Function() onTap;
   final String answerText;
 
   @override
@@ -15,7 +15,7 @@ class AnswerButton extends StatelessWidget {
     return ElevatedButton(
       style: ElevatedButton.styleFrom(
         foregroundColor: Colors.white,
-        backgroundColor: const Color.fromARGB(255, 21, 80, 129),
+        backgroundColor: const Color.fromARGB(255, 33, 1, 95),
         padding: const EdgeInsets.symmetric(horizontal: 40, vertical: 10),
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(40)),
       ),
