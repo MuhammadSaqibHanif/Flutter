@@ -7,7 +7,7 @@ class StartScreen extends StatelessWidget {
   final void Function() startQuiz;
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(context) {
     return Center(
       child: Column(
         mainAxisSize: MainAxisSize.min,
@@ -40,7 +40,7 @@ class StartScreen extends StatelessWidget {
             ),
             icon: const Icon(Icons.arrow_right_alt),
             label: const Text('Start Quiz'),
-          ),
+          )
         ],
       ),
     );
