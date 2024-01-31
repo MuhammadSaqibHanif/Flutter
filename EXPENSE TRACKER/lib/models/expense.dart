@@ -1,6 +1,8 @@
+import 'package:flutter/material.dart';
 import 'package:uuid/uuid.dart';
 import 'package:intl/intl.dart';
-import 'package:flutter/material.dart';
+
+final formatter = DateFormat.yMd();
 
 const uuid = Uuid();
 
@@ -12,8 +14,6 @@ const categoryIcons = {
   Category.leisure: Icons.movie,
   Category.work: Icons.work,
 };
-
-final formatter = DateFormat.yMd();
 
 class Expense {
   Expense({
@@ -52,7 +52,7 @@ class ExpenseBucket {
     double sum = 0;
 
     for (final expense in expenses) {
-      sum += expense.amount; // sum = sum + expense.amount;
+      sum += expense.amount; // sum = sum + expense.amount
     }
 
     return sum;

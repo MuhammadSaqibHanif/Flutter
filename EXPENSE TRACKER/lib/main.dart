@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 
 import 'package:expense_tracker/widgets/expenses.dart';
 
-final kColorScheme = ColorScheme.fromSeed(
+var kColorScheme = ColorScheme.fromSeed(
   seedColor: const Color.fromARGB(255, 96, 59, 181),
 );
 
-final kDarkColorScheme = ColorScheme.fromSeed(
+var kDarkColorScheme = ColorScheme.fromSeed(
   brightness: Brightness.dark,
   seedColor: const Color.fromARGB(255, 5, 99, 125),
 );
@@ -51,13 +51,14 @@ void main() {
           ),
         ),
         textTheme: ThemeData().textTheme.copyWith(
-              titleLarge: ThemeData().textTheme.titleLarge!.copyWith(
-                    fontWeight: FontWeight.bold,
-                    fontSize: 16,
-                    color: kColorScheme.onSecondaryContainer,
-                  ),
+              titleLarge: TextStyle(
+                fontWeight: FontWeight.bold,
+                color: kColorScheme.onSecondaryContainer,
+                fontSize: 16,
+              ),
             ),
       ),
+      // themeMode: ThemeMode.system, // default
       home: const Expenses(),
     ),
   );
