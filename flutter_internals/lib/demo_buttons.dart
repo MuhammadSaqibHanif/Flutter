@@ -4,7 +4,9 @@ class DemoButtons extends StatefulWidget {
   const DemoButtons({super.key});
 
   @override
-  State<DemoButtons> createState() => _DemoButtonsState();
+  State<DemoButtons> createState() {
+    return _DemoButtonsState();
+  }
 }
 
 class _DemoButtonsState extends State<DemoButtons> {
@@ -13,7 +15,6 @@ class _DemoButtonsState extends State<DemoButtons> {
   @override
   Widget build(BuildContext context) {
     print('DemoButtons BUILD called');
-
     return Column(
       mainAxisSize: MainAxisSize.min,
       children: [
