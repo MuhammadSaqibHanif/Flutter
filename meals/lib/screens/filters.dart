@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 // import 'package:meals/screens/tabs.dart';
 // import 'package:meals/widgets/main_drawer.dart';
 
@@ -10,15 +11,14 @@ enum Filter {
 }
 
 class FiltersScreen extends StatefulWidget {
-  const FiltersScreen({
-    super.key,
-    required this.currentFilters,
-  });
+  const FiltersScreen({super.key, required this.currentFilters});
 
   final Map<Filter, bool> currentFilters;
 
   @override
-  State<FiltersScreen> createState() => _FiltersScreenState();
+  State<FiltersScreen> createState() {
+    return _FiltersScreenState();
+  }
 }
 
 class _FiltersScreenState extends State<FiltersScreen> {
@@ -30,7 +30,6 @@ class _FiltersScreenState extends State<FiltersScreen> {
   @override
   void initState() {
     super.initState();
-
     _glutenFreeFilterSet = widget.currentFilters[Filter.glutenFree]!;
     _lactoseFreeFilterSet = widget.currentFilters[Filter.lactoseFree]!;
     _vegetarianFilterSet = widget.currentFilters[Filter.vegetarian]!;
@@ -43,18 +42,18 @@ class _FiltersScreenState extends State<FiltersScreen> {
       appBar: AppBar(
         title: const Text('Your Filters'),
       ),
-      // drawer: MainDrawer(onSelectScreen: (identifier) {
-      //   Navigator.of(context).pop();
-      //   if (identifier == 'meals') {
-      //     Navigator.of(context).pushReplacement(
-      //       MaterialPageRoute(
-      //         builder: (ctx) {
-      //           return const TabsScreen();
-      //         },
-      //       ),
-      //     );
-      //   }
-      // }),
+      // drawer: MainDrawer(
+      //   onSelectScreen: (identifier) {
+      //     Navigator.of(context).pop();
+      //     if (identifier == 'meals') {
+      //       Navigator.of(context).pushReplacement(
+      //         MaterialPageRoute(
+      //           builder: (ctx) => const TabsScreen(),
+      //         ),
+      //       );
+      //     }
+      //   },
+      // ),
       body: WillPopScope(
         onWillPop: () async {
           Navigator.of(context).pop({
@@ -81,7 +80,7 @@ class _FiltersScreenState extends State<FiltersScreen> {
                     ),
               ),
               subtitle: Text(
-                'Only include gluten-free meals',
+                'Only include gluten-free meals.',
                 style: Theme.of(context).textTheme.labelMedium!.copyWith(
                       color: Theme.of(context).colorScheme.onBackground,
                     ),
@@ -103,7 +102,7 @@ class _FiltersScreenState extends State<FiltersScreen> {
                     ),
               ),
               subtitle: Text(
-                'Only include lactose-free meals',
+                'Only include lactose-free meals.',
                 style: Theme.of(context).textTheme.labelMedium!.copyWith(
                       color: Theme.of(context).colorScheme.onBackground,
                     ),
@@ -125,7 +124,7 @@ class _FiltersScreenState extends State<FiltersScreen> {
                     ),
               ),
               subtitle: Text(
-                'Only include vegetarian meals',
+                'Only include vegetarian meals.',
                 style: Theme.of(context).textTheme.labelMedium!.copyWith(
                       color: Theme.of(context).colorScheme.onBackground,
                     ),
@@ -147,7 +146,7 @@ class _FiltersScreenState extends State<FiltersScreen> {
                     ),
               ),
               subtitle: Text(
-                'Only include vegan meals',
+                'Only include vegan meals.',
                 style: Theme.of(context).textTheme.labelMedium!.copyWith(
                       color: Theme.of(context).colorScheme.onBackground,
                     ),

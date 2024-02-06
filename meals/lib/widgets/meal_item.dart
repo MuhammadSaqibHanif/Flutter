@@ -51,19 +51,17 @@ class MealItem extends StatelessWidget {
               left: 0,
               right: 0,
               child: Container(
-                padding: const EdgeInsets.symmetric(
-                  vertical: 6,
-                  horizontal: 44,
-                ),
                 color: Colors.black54,
+                padding:
+                    const EdgeInsets.symmetric(vertical: 6, horizontal: 44),
                 child: Column(
                   children: [
                     Text(
                       meal.title,
-                      textAlign: TextAlign.center,
                       maxLines: 2,
+                      textAlign: TextAlign.center,
                       softWrap: true,
-                      overflow: TextOverflow.ellipsis,
+                      overflow: TextOverflow.ellipsis, // Very long text ...
                       style: const TextStyle(
                         fontSize: 20,
                         fontWeight: FontWeight.bold,
@@ -87,13 +85,13 @@ class MealItem extends StatelessWidget {
                         MealItemTrait(
                           icon: Icons.attach_money,
                           label: affordabilityText,
-                        ),
+                        )
                       ],
                     ),
                   ],
                 ),
               ),
-            ),
+            )
           ],
         ),
       ),
