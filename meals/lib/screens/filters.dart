@@ -21,10 +21,9 @@ class FiltersScreen extends ConsumerWidget {
           SwitchListTile(
             value: activeFilters[Filter.glutenFree]!,
             onChanged: (isChecked) {
-              ref.read(filtersProvider.notifier).setFilter(
-                    Filter.glutenFree,
-                    isChecked,
-                  );
+              ref
+                  .read(filtersProvider.notifier)
+                  .setFilter(Filter.glutenFree, isChecked);
             },
             title: Text(
               'Gluten-free',
@@ -44,10 +43,9 @@ class FiltersScreen extends ConsumerWidget {
           SwitchListTile(
             value: activeFilters[Filter.lactoseFree]!,
             onChanged: (isChecked) {
-              ref.read(filtersProvider.notifier).setFilter(
-                    Filter.lactoseFree,
-                    isChecked,
-                  );
+              ref
+                  .read(filtersProvider.notifier)
+                  .setFilter(Filter.lactoseFree, isChecked);
             },
             title: Text(
               'Lactose-free',
@@ -67,10 +65,9 @@ class FiltersScreen extends ConsumerWidget {
           SwitchListTile(
             value: activeFilters[Filter.vegetarian]!,
             onChanged: (isChecked) {
-              ref.read(filtersProvider.notifier).setFilter(
-                    Filter.vegetarian,
-                    isChecked,
-                  );
+              ref
+                  .read(filtersProvider.notifier)
+                  .setFilter(Filter.vegetarian, isChecked);
             },
             title: Text(
               'Vegetarian',
@@ -90,10 +87,9 @@ class FiltersScreen extends ConsumerWidget {
           SwitchListTile(
             value: activeFilters[Filter.vegan]!,
             onChanged: (isChecked) {
-              ref.read(filtersProvider.notifier).setFilter(
-                    Filter.vegan,
-                    isChecked,
-                  );
+              ref
+                  .read(filtersProvider.notifier)
+                  .setFilter(Filter.vegan, isChecked);
             },
             title: Text(
               'Vegan',
