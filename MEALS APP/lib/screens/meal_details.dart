@@ -35,18 +35,18 @@ class MealDetailsScreen extends ConsumerWidget {
             },
             icon: AnimatedSwitcher(
               duration: const Duration(milliseconds: 300),
-              transitionBuilder: ((child, animation) {
+              transitionBuilder: (child, animation) {
                 return RotationTransition(
                   turns: Tween<double>(begin: 0.8, end: 1).animate(animation),
                   child: child,
                 );
-              }),
+              },
               child: Icon(
                 isFavorite ? Icons.star : Icons.star_border,
                 key: ValueKey(isFavorite),
               ),
             ),
-          ),
+          )
         ]),
         body: SingleChildScrollView(
           child: Column(
