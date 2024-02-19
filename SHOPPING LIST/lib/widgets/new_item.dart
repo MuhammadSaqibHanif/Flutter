@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 import 'package:shopping_list/data/categories.dart';
 import 'package:shopping_list/models/category.dart';
 import 'package:shopping_list/models/grocery_item.dart';
@@ -7,12 +8,13 @@ class NewItem extends StatefulWidget {
   const NewItem({super.key});
 
   @override
-  State<NewItem> createState() => _NewItemState();
+  State<NewItem> createState() {
+    return _NewItemState();
+  }
 }
 
 class _NewItemState extends State<NewItem> {
   final _formKey = GlobalKey<FormState>();
-
   var _enteredName = '';
   var _enteredQuantity = 1;
   var _selectedCategory = categories[Categories.vegetables]!;
@@ -35,7 +37,7 @@ class _NewItemState extends State<NewItem> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Add a New Item'),
+        title: const Text('Add a new item'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(12),
@@ -48,19 +50,22 @@ class _NewItemState extends State<NewItem> {
                 decoration: const InputDecoration(
                   label: Text('Name'),
                 ),
-                onSaved: (value) {
-                  _enteredName = value!;
-                },
                 validator: (value) {
                   if (value == null ||
                       value.isEmpty ||
                       value.trim().length <= 1 ||
                       value.trim().length > 50) {
-                    return 'Must be between one and 50 characters long';
+                    return 'Must be between 1 and 50 characters.';
                   }
                   return null;
                 },
-              ),
+                onSaved: (value) {
+                  // if (value == null) {
+                  //   return;
+                  // }
+                  _enteredName = value!;
+                },
+              ), // instead of TextField()
               Row(
                 crossAxisAlignment: CrossAxisAlignment.end,
                 children: [
@@ -69,14 +74,14 @@ class _NewItemState extends State<NewItem> {
                       decoration: const InputDecoration(
                         label: Text('Quantity'),
                       ),
-                      initialValue: '1',
                       keyboardType: TextInputType.number,
+                      initialValue: _enteredQuantity.toString(),
                       validator: (value) {
                         if (value == null ||
                             value.isEmpty ||
                             int.tryParse(value) == null ||
                             int.tryParse(value)! <= 0) {
-                          return 'Must be a valid positive number';
+                          return 'Must be a valid, positive number.';
                         }
                         return null;
                       },
@@ -128,7 +133,7 @@ class _NewItemState extends State<NewItem> {
                   ElevatedButton(
                     onPressed: _saveItem,
                     child: const Text('Add Item'),
-                  ),
+                  )
                 ],
               ),
             ],

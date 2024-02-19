@@ -15,9 +15,9 @@ class _GroceryListState extends State<GroceryList> {
 
   void _addItem() async {
     final newItem = await Navigator.of(context).push<GroceryItem>(
-      MaterialPageRoute(builder: (ctx) {
-        return const NewItem();
-      }),
+      MaterialPageRoute(
+        builder: (ctx) => const NewItem(),
+      ),
     );
 
     if (newItem == null) {
@@ -29,15 +29,15 @@ class _GroceryListState extends State<GroceryList> {
     });
   }
 
-  void _removeItem(GroceryItem grocery) {
+  void _removeItem(GroceryItem item) {
     setState(() {
-      _groceryItems.remove(grocery);
+      _groceryItems.remove(item);
     });
   }
 
   @override
   Widget build(BuildContext context) {
-    Widget content = const Center(child: Text('No items added yet'));
+    Widget content = const Center(child: Text('No items added yet.'));
 
     if (_groceryItems.isNotEmpty) {
       content = ListView.builder(
@@ -66,9 +66,9 @@ class _GroceryListState extends State<GroceryList> {
       appBar: AppBar(
         title: const Text('Your Groceries'),
         actions: [
-          TextButton(
+          IconButton(
             onPressed: _addItem,
-            child: const Icon(Icons.add),
+            icon: const Icon(Icons.add),
           ),
         ],
       ),
