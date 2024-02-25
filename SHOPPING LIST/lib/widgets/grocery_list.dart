@@ -17,6 +17,7 @@ class GroceryList extends StatefulWidget {
 class _GroceryListState extends State<GroceryList> {
   List<GroceryItem> _groceryItems = [];
   var _isLoading = true;
+  String? _error;
 
   @override
   void initState() {
@@ -31,6 +32,10 @@ class _GroceryListState extends State<GroceryList> {
     final responnse = await http.get(url);
 
     print(responnse.body);
+
+    if (responnse.statusCode > 400) {
+      _error = 'Failed to fetch data please try again later.';
+    }
 
     List<GroceryItem> loadedItems = [];
 
@@ -109,6 +114,10 @@ class _GroceryListState extends State<GroceryList> {
           ),
         ),
       );
+    }
+
+    if (_error != null) {
+      content = Center(child: Text(_error!));
     }
 
     return Scaffold(
