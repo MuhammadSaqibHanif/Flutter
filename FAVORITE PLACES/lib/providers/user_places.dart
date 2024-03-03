@@ -7,12 +7,11 @@ class UserPlacesNotifier extends StateNotifier<List<Place>> {
 
   void addPlace(String title) {
     final newPlace = Place(title: title);
-
     state = [newPlace, ...state];
   }
 }
 
 final userPlacesProvider =
-    StateNotifierProvider<UserPlacesNotifier, List<Place>>((ref) {
-  return UserPlacesNotifier();
-});
+    StateNotifierProvider<UserPlacesNotifier, List<Place>>(
+  (ref) => UserPlacesNotifier(),
+);

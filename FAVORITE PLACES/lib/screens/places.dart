@@ -17,6 +17,7 @@ class PlacesScreen extends ConsumerWidget {
         title: const Text('Your Places'),
         actions: [
           IconButton(
+            icon: const Icon(Icons.add),
             onPressed: () {
               Navigator.of(context).push(
                 MaterialPageRoute(
@@ -24,7 +25,6 @@ class PlacesScreen extends ConsumerWidget {
                 ),
               );
             },
-            icon: const Icon(Icons.add),
           ),
         ],
       ),
