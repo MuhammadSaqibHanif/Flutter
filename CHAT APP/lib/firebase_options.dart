@@ -17,21 +17,21 @@ import 'package:flutter/foundation.dart'
 class DefaultFirebaseOptions {
   static FirebaseOptions get currentPlatform {
     if (kIsWeb) {
-      return web;
+      throw UnsupportedError(
+        'DefaultFirebaseOptions have not been configured for web - '
+        'you can reconfigure this by running the FlutterFire CLI again.',
+      );
     }
     switch (defaultTargetPlatform) {
       case TargetPlatform.android:
-        throw UnsupportedError(
-          'DefaultFirebaseOptions have not been configured for android - '
-          'you can reconfigure this by running the FlutterFire CLI again.',
-        );
+        return android;
       case TargetPlatform.iOS:
+        return ios;
+      case TargetPlatform.macOS:
         throw UnsupportedError(
-          'DefaultFirebaseOptions have not been configured for ios - '
+          'DefaultFirebaseOptions have not been configured for macos - '
           'you can reconfigure this by running the FlutterFire CLI again.',
         );
-      case TargetPlatform.macOS:
-        return macos;
       case TargetPlatform.windows:
         throw UnsupportedError(
           'DefaultFirebaseOptions have not been configured for windows - '
@@ -49,18 +49,17 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCxph2grhGtJBnM9w3jN0i71wJi7WnPMV4',
-    appId: '1:867731406883:web:6dc8c59f0f374e8381b196',
+  static const FirebaseOptions android = FirebaseOptions(
+    apiKey: 'AIzaSyAXA9vpOpE4DBRSKpi_NvsyqdX4o7Tf6EA',
+    appId: '1:867731406883:android:b3f1683d83f5e11781b196',
     messagingSenderId: '867731406883',
     projectId: 'msh-flutter-chat-app',
-    authDomain: 'msh-flutter-chat-app.firebaseapp.com',
     storageBucket: 'msh-flutter-chat-app.appspot.com',
   );
 
-  static const FirebaseOptions macos = FirebaseOptions(
+  static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyDLykkpUO5hZlRyJz5K9Y8H8PB1tWu_f5c',
-    appId: '1:867731406883:ios:b39d390e83b7e11181b196',
+    appId: '1:867731406883:ios:a33cca8a6bfdf58c81b196',
     messagingSenderId: '867731406883',
     projectId: 'msh-flutter-chat-app',
     storageBucket: 'msh-flutter-chat-app.appspot.com',
