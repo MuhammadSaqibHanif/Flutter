@@ -12,7 +12,7 @@ class PlaceDetailScreen extends StatelessWidget {
     final lat = place.location.latitude;
     final lng = place.location.longitude;
 
-    return 'https://maps.googleapis.com/maps/api/staticmap?center=$lat,$lng&zoom=16&size=600x300&maptype=roadmap&markers=color:red%7Clabel:A%7C$lat,$lng&key=AIzaSyAdnanGhf1IhukOCC06xS5FnzGwCkep3TQ';
+    return 'https://maps.googleapis.com/maps/api/staticmap?center=$lat,$lng&zoom=16&size=600x300&maptype=roadmap&markers=color:red%7Clabel:A%7C$lat,$lng&key=API_KEY_HERE';
   }
 
   @override

@@ -24,7 +24,7 @@ class _LocationInputState extends State<LocationInput> {
 
   Future<void> _savePlace(double latitude, double longitude) async {
     var uri = Uri.parse(
-        'https://maps.googleapis.com/maps/api/geocode/json?latlng=$latitude,$longitude&key=AIzaSyAdnanGhf1IhukOCC06xS5FnzGwCkep3TQ');
+        'https://maps.googleapis.com/maps/api/geocode/json?latlng=$latitude,$longitude&key=API_KEY_HERE');
 
     var response = await http.get(uri);
 
@@ -52,7 +52,7 @@ class _LocationInputState extends State<LocationInput> {
     final lat = _pickedLocation!.latitude;
     final lng = _pickedLocation!.longitude;
 
-    return 'https://maps.googleapis.com/maps/api/staticmap?center=$lat,$lng&zoom=16&size=600x300&maptype=roadmap&markers=color:red%7Clabel:A%7C$lat,$lng&key=AIzaSyAdnanGhf1IhukOCC06xS5FnzGwCkep3TQ';
+    return 'https://maps.googleapis.com/maps/api/staticmap?center=$lat,$lng&zoom=16&size=600x300&maptype=roadmap&markers=color:red%7Clabel:A%7C$lat,$lng&key=API_KEY_HERE';
   }
 
   void getCurrentLocation() async {
