@@ -44,7 +44,7 @@ class _PlacesScreenState extends ConsumerState<PlacesScreen> {
         ],
       ),
       body: Padding(
-        padding: const EdgeInsets.all(8),
+        padding: const EdgeInsets.all(8.0),
         child: FutureBuilder(
           future: _placesFuture,
           builder: (context, snapshot) =>

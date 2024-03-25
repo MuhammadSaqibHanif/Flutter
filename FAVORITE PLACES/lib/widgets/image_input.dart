@@ -9,7 +9,9 @@ class ImageInput extends StatefulWidget {
   final void Function(File image) onPickImage;
 
   @override
-  State<ImageInput> createState() => _ImageInputState();
+  State<ImageInput> createState() {
+    return _ImageInputState();
+  }
 }
 
 class _ImageInputState extends State<ImageInput> {
@@ -17,7 +19,6 @@ class _ImageInputState extends State<ImageInput> {
 
   void _takePicture() async {
     final imagePicker = ImagePicker();
-
     final pickedImage =
         await imagePicker.getImage(source: ImageSource.camera, maxWidth: 600);
 
@@ -36,32 +37,32 @@ class _ImageInputState extends State<ImageInput> {
   Widget build(BuildContext context) {
     Widget content = TextButton.icon(
       icon: const Icon(Icons.camera),
-      label: const Text('Take picture'),
+      label: const Text('Take Picture'),
       onPressed: _takePicture,
     );
 
     if (_selectedImage != null) {
-      return GestureDetector(
+      content = GestureDetector(
         onTap: _takePicture,
         child: Image.file(
           _selectedImage!,
           fit: BoxFit.cover,
           width: double.infinity,
-          height: 250,
+          height: double.infinity,
         ),
       );
     }
 
     return Container(
-      height: 250,
-      width: double.infinity,
-      alignment: Alignment.center,
       decoration: BoxDecoration(
         border: Border.all(
           width: 1,
           color: Theme.of(context).colorScheme.primary.withOpacity(0.2),
         ),
       ),
+      height: 250,
+      width: double.infinity,
+      alignment: Alignment.center,
       child: content,
     );
   }

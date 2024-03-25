@@ -11,8 +11,7 @@ class PlaceDetailScreen extends StatelessWidget {
   String get locationImage {
     final lat = place.location.latitude;
     final lng = place.location.longitude;
-
-    return 'https://maps.googleapis.com/maps/api/staticmap?center=$lat,$lng&zoom=16&size=600x300&maptype=roadmap&markers=color:red%7Clabel:A%7C$lat,$lng&key=API_KEY_HERE';
+    return 'https://maps.googleapis.com/maps/api/staticmap?center=$lat,$lng=&zoom=16&size=600x300&maptype=roadmap&markers=color:red%7Clabel:A%7C$lat,$lng&key=AIzaSyDLcwxUggpPZo8lcbH0TB4Crq5SJjtj4ag';
   }
 
   @override
@@ -39,12 +38,10 @@ class PlaceDetailScreen extends StatelessWidget {
                   onTap: () {
                     Navigator.of(context).push(
                       MaterialPageRoute(
-                        builder: (ctx) {
-                          return MapScreen(
-                            location: place.location,
-                            isSelecting: false,
-                          );
-                        },
+                        builder: (ctx) => MapScreen(
+                          location: place.location,
+                          isSelecting: false,
+                        ),
                       ),
                     );
                   },
@@ -54,6 +51,11 @@ class PlaceDetailScreen extends StatelessWidget {
                   ),
                 ),
                 Container(
+                  alignment: Alignment.center,
+                  padding: const EdgeInsets.symmetric(
+                    horizontal: 24,
+                    vertical: 16,
+                  ),
                   decoration: const BoxDecoration(
                     gradient: LinearGradient(
                       colors: [
@@ -64,11 +66,6 @@ class PlaceDetailScreen extends StatelessWidget {
                       end: Alignment.bottomCenter,
                     ),
                   ),
-                  padding: const EdgeInsets.symmetric(
-                    horizontal: 24,
-                    vertical: 16,
-                  ),
-                  alignment: Alignment.center,
                   child: Text(
                     place.location.address,
                     textAlign: TextAlign.center,
@@ -79,7 +76,7 @@ class PlaceDetailScreen extends StatelessWidget {
                 ),
               ],
             ),
-          ),
+          )
         ],
       ),
     );
