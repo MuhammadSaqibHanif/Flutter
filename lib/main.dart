@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'package:master_app/features/roll_dice_app/roll_dice_app.dart';
+
 void main() {
   runApp(const MyApp());
 }
@@ -36,12 +38,12 @@ class MyApp extends StatelessWidget {
   }
 }
 
-final List<Map<String, String>> apps = [
-  {'name': 'Todo App', 'icon': '📝'},
-  {'name': 'Calculator App', 'icon': '🧮'},
-  {'name': 'Notes App', 'icon': '📘'},
-  {'name': 'Weather App', 'icon': '☁️'},
-  {'name': 'Quiz App', 'icon': '❓'},
+const apps = [
+  {'name': 'Roll Dice App', 'icon': '📝', 'widget': RollDiceApp()},
+  {'name': 'Calculator App', 'icon': '🧮', 'widget': RollDiceApp()},
+  {'name': 'Notes App', 'icon': '📘', 'widget': RollDiceApp()},
+  {'name': 'Weather App', 'icon': '☁️', 'widget': RollDiceApp()},
+  {'name': 'Quiz App', 'icon': '❓', 'widget': RollDiceApp()},
 ];
 
 class MyHomePage extends StatelessWidget {
@@ -63,15 +65,22 @@ class MyHomePage extends StatelessWidget {
               borderRadius: BorderRadius.circular(12),
             ),
             child: ListTile(
-              leading: Text(app['icon']!, style: TextStyle(fontSize: 28)),
+              leading: Text(
+                app['icon'] as String,
+                style: TextStyle(fontSize: 28),
+              ),
               title: Text(
-                app['name']!,
+                app['name'] as String,
                 style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
               ),
               trailing: Icon(Icons.arrow_forward_ios),
               onTap: () {
                 // Navigate to the respective app
                 // Navigator.push(context, MaterialPageRoute(builder: (_) => TodoApp()));
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (_) => app['widget'] as Widget),
+                );
               },
             ),
           );
