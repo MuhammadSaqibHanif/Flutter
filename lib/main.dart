@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 // import 'package:flutter/services.dart';
 
 import 'package:master_app/features/quiz_app/quiz_app.dart';
+import 'package:master_app/features/todo_app/todo_app.dart';
 import 'package:master_app/features/roll_dice_app/roll_dice_app.dart';
 import 'package:master_app/features/expense_tracker_app/expense_tracker_app.dart';
 
@@ -84,7 +85,7 @@ const apps = [
   {'name': 'Roll Dice App', 'icon': '🎲', 'widget': RollDiceApp()},
   {'name': 'Quiz App', 'icon': '❓', 'widget': QuizApp()},
   {'name': 'Expense Tracker App', 'icon': '🧮', 'widget': ExpenseTrackerApp()},
-  {'name': 'Weather App', 'icon': '☁️', 'widget': RollDiceApp()},
+  {'name': 'Todo App', 'icon': '☁️', 'widget': TodoApp()},
   {'name': 'Quiz App', 'icon': '❓', 'widget': RollDiceApp()},
 ];
 
