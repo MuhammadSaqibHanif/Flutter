@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 
 import 'package:master_app/features/quiz_app/quiz_app.dart';
 import 'package:master_app/features/todo_app/todo_app.dart';
+import 'package:master_app/features/meals_app/meals_app.dart';
 import 'package:master_app/features/roll_dice_app/roll_dice_app.dart';
 import 'package:master_app/features/expense_tracker_app/expense_tracker_app.dart';
 
@@ -86,7 +87,7 @@ const apps = [
   {'name': 'Quiz App', 'icon': '❓', 'widget': QuizApp()},
   {'name': 'Expense Tracker App', 'icon': '🧮', 'widget': ExpenseTrackerApp()},
   {'name': 'Todo App', 'icon': '☁️', 'widget': TodoApp()},
-  {'name': 'Quiz App', 'icon': '❓', 'widget': RollDiceApp()},
+  {'name': 'Meals App', 'icon': '❓', 'widget': MealsApp()},
 ];
 
 class MyHomePage extends StatelessWidget {
