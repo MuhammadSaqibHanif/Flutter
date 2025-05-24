@@ -5,6 +5,7 @@ import 'package:master_app/features/quiz_app/quiz_app.dart';
 import 'package:master_app/features/todo_app/todo_app.dart';
 import 'package:master_app/features/meals_app/meals_app.dart';
 import 'package:master_app/features/roll_dice_app/roll_dice_app.dart';
+import 'package:master_app/features/shopping_list_app/shopping_list_app.dart';
 import 'package:master_app/features/expense_tracker_app/expense_tracker_app.dart';
 
 void main() {
@@ -88,6 +89,7 @@ const apps = [
   {'name': 'Expense Tracker App', 'icon': '🧮', 'widget': ExpenseTrackerApp()},
   {'name': 'Todo App', 'icon': '☁️', 'widget': TodoApp()},
   {'name': 'Meals App', 'icon': '❓', 'widget': MealsApp()},
+  {'name': 'Shopping List App', 'icon': '❓', 'widget': ShoppingListApp()},
 ];
 
 class MyHomePage extends StatelessWidget {
