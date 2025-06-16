@@ -46,6 +46,7 @@ dependencies:
   path_provider: ^2.1.5
   path: ^1.9.1
   sqflite: ^2.4.2
+  flutter_dotenv: ^5.2.1
 
 dev_dependencies:
   flutter_test:
@@ -72,7 +73,8 @@ flutter:
   assets:
     - assets/roll_dice_app/images/
     - assets/quiz_app/images/quiz-logo.png
-  #   - images/a_dot_ham.jpeg
+
+    - .env
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

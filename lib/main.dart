@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 // import 'package:flutter/services.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 import 'package:master_app/features/quiz_app/quiz_app.dart';
 import 'package:master_app/features/todo_app/todo_app.dart';
@@ -9,13 +10,14 @@ import 'package:master_app/features/shopping_list_app/shopping_list_app.dart';
 import 'package:master_app/features/favorite_places_app/favorite_places_app.dart';
 import 'package:master_app/features/expense_tracker_app/expense_tracker_app.dart';
 
-void main() {
+void main() async {
   // WidgetsFlutterBinding.ensureInitialized();
   // SystemChrome.setPreferredOrientations([
   //   DeviceOrientation.portraitUp,
   // ]).then((fn) {
   // runApp();
   // });
+  await dotenv.load(fileName: ".env");
   runApp(const MyApp());
 }
 

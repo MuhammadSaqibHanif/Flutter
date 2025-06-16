@@ -78,13 +78,13 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:http/http.dart' as http;
 import '../data/categories.dart';
 // import '../models/category.dart';
 
 import '../models/grocery_item.dart';
 import '../widgets/new_item.dart';
-import 'package:master_app/constants.dart';
 
 class GroceryList extends StatefulWidget {
   const GroceryList({super.key});
@@ -105,7 +105,10 @@ class _GroceryListState extends State<GroceryList> {
   }
 
   void _loadItems() async {
-    final url = Uri.https(firebaseProjectUrl, 'shopping-list.json');
+    final url = Uri.https(
+      dotenv.env['FIREBASE_PROJECT_URL'] as String,
+      'shopping-list.json',
+    );
 
     try {
       final response = await http.get(url);
@@ -172,7 +175,10 @@ class _GroceryListState extends State<GroceryList> {
       _groceryItems.remove(item);
     });
 
-    final url = Uri.https(firebaseProjectUrl, 'shopping-list/${item.id}.json');
+    final url = Uri.https(
+      dotenv.env['FIREBASE_PROJECT_URL'] as String,
+      'shopping-list/${item.id}.json',
+    );
 
     final response = await http.delete(url);
 

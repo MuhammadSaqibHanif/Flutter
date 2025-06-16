@@ -149,12 +149,12 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:http/http.dart' as http;
 
 import '../data/categories.dart';
 import '../models/category.dart';
 import '../models/grocery_item.dart';
-import 'package:master_app/constants.dart';
 
 class NewItem extends StatefulWidget {
   const NewItem({super.key});
@@ -178,7 +178,10 @@ class _NewItemState extends State<NewItem> {
       setState(() {
         _isSending = true;
       });
-      final url = Uri.https(firebaseProjectUrl, 'shopping-list.json');
+      final url = Uri.https(
+        dotenv.env['FIREBASE_PROJECT_URL'] as String,
+        'shopping-list.json',
+      );
       final response = await http.post(
         url,
         headers: {'Content-Type': 'application/json'},
