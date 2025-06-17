@@ -1,8 +1,10 @@
 import 'package:flutter/material.dart';
 // import 'package:flutter/services.dart';
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 import 'package:master_app/features/quiz_app/quiz_app.dart';
+import 'package:master_app/features/chat_app/chat_app.dart';
 import 'package:master_app/features/todo_app/todo_app.dart';
 import 'package:master_app/features/meals_app/meals_app.dart';
 import 'package:master_app/features/roll_dice_app/roll_dice_app.dart';
@@ -10,14 +12,21 @@ import 'package:master_app/features/shopping_list_app/shopping_list_app.dart';
 import 'package:master_app/features/favorite_places_app/favorite_places_app.dart';
 import 'package:master_app/features/expense_tracker_app/expense_tracker_app.dart';
 
+import 'package:master_app/features/chat_app/firebase_options.dart';
+
 void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+
+  await dotenv.load(fileName: ".env");
+
+  await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
+
   // WidgetsFlutterBinding.ensureInitialized();
   // SystemChrome.setPreferredOrientations([
   //   DeviceOrientation.portraitUp,
   // ]).then((fn) {
   // runApp();
   // });
-  await dotenv.load(fileName: ".env");
   runApp(const MyApp());
 }
 
@@ -94,6 +103,7 @@ const apps = [
   {'name': 'Meals App', 'icon': '❓', 'widget': MealsApp()},
   {'name': 'Shopping List App', 'icon': '❓', 'widget': ShoppingListApp()},
   {'name': 'Favorite Places App', 'icon': '❓', 'widget': FavoritePlacesApp()},
+  {'name': 'Chat App', 'icon': '❓', 'widget': ChatApp()},
 ];
 
 class MyHomePage extends StatelessWidget {

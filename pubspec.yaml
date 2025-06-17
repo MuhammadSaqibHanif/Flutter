@@ -47,6 +47,11 @@ dependencies:
   path: ^1.9.1
   sqflite: ^2.4.2
   flutter_dotenv: ^5.2.1
+  firebase_core: ^3.14.0
+  firebase_auth: ^5.6.0
+  firebase_storage: ^12.4.7
+  firebase_messaging: ^15.2.7
+  cloud_firestore: ^5.6.9
 
 dev_dependencies:
   flutter_test:
@@ -73,6 +78,7 @@ flutter:
   assets:
     - assets/roll_dice_app/images/
     - assets/quiz_app/images/quiz-logo.png
+    - assets/chat_app/images/chat.png
 
     - .env
 
