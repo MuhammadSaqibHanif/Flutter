@@ -34,24 +34,25 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
-  uuid: ^4.5.1
-  intl: ^0.20.2
-  google_fonts: ^6.2.1
-  flutter_riverpod: ^2.6.1
-  transparent_image: ^2.0.1
-  http: ^1.4.0
-  image_picker: ^1.1.2
-  location: ^8.0.0
-  google_maps_flutter: ^2.12.2
-  path_provider: ^2.1.5
-  path: ^1.9.1
-  sqflite: ^2.4.2
   flutter_dotenv: ^5.2.1
   firebase_core: ^3.14.0
-  firebase_auth: ^5.6.0
-  firebase_storage: ^12.4.7
-  firebase_messaging: ^15.2.7
-  cloud_firestore: ^5.6.9
+
+  todo_app:
+    path: packages/todo_app
+  chat_app:
+    path: packages/chat_app
+  quiz_app:
+    path: packages/quiz_app
+  meals_app:
+    path: packages/meals_app
+  roll_dice_app:
+    path: packages/roll_dice_app
+  shopping_list_app:
+    path: packages/shopping_list_app
+  favorite_places_app:
+    path: packages/favorite_places_app
+  expense_tracker_app:
+    path: packages/expense_tracker_app
 
 dev_dependencies:
   flutter_test:
