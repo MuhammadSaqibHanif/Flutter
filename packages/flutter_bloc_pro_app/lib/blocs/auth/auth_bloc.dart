@@ -1,9 +1,11 @@
-import 'package:bloc/bloc.dart';
+import 'package:hydrated_bloc/hydrated_bloc.dart';
+
 import 'auth_event.dart';
 import 'auth_state.dart';
+import '../../models/user.dart';
 import '../../repositories/auth_repository.dart';
 
-class AuthBloc extends Bloc<AuthEvent, AuthState> {
+class AuthBloc extends HydratedBloc<AuthEvent, AuthState> {
   final AuthRepository authRepository;
 
   AuthBloc({required this.authRepository}) : super(AuthInitial()) {
@@ -13,6 +15,9 @@ class AuthBloc extends Bloc<AuthEvent, AuthState> {
   }
 
   Future<void> _onAppStarted(AppStarted event, Emitter<AuthState> emit) async {
+    // If hydration already restored a terminal state, don't override it.
+    if (state is AuthAuthenticated || state is AuthUnauthenticated) return;
+
     emit(AuthLoading());
     try {
       final current = await authRepository.getCurrentUser();
@@ -21,7 +26,7 @@ class AuthBloc extends Bloc<AuthEvent, AuthState> {
       } else {
         emit(AuthUnauthenticated());
       }
-    } catch (e) {
+    } catch (_) {
       emit(AuthUnauthenticated());
     }
   }
@@ -50,5 +55,31 @@ class AuthBloc extends Bloc<AuthEvent, AuthState> {
     emit(AuthLoading());
     await authRepository.logout();
     emit(AuthUnauthenticated());
+  }
+
+  @override
+  AuthState? fromJson(Map<String, dynamic> json) {
+    try {
+      switch (json['type'] as String?) {
+        case 'authenticated':
+          final user = User.fromJson(json['user'] as Map<String, dynamic>);
+          return AuthAuthenticated(user: user);
+        case 'unauthenticated':
+          return AuthUnauthenticated();
+        default:
+          return AuthUnauthenticated();
+      }
+    } catch (_) {
+      return AuthUnauthenticated();
+    }
+  }
+
+  @override
+  Map<String, dynamic>? toJson(AuthState state) {
+    if (state is AuthAuthenticated) {
+      return {'type': 'authenticated', 'user': state.user.toJson()};
+    }
+    // Persist unauthenticated so app routes to /login on next launch.
+    return {'type': 'unauthenticated'};
   }
 }

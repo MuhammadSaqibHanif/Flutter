@@ -31,4 +31,20 @@ class Post extends Equatable {
 
   @override
   List<Object?> get props => [id, title, body, likes, likedByUser];
+
+  Map<String, dynamic> toJson() => {
+    'id': id,
+    'title': title,
+    'body': body,
+    'likes': likes,
+    'likedByUser': likedByUser,
+  };
+
+  static Post fromJson(Map<String, dynamic> json) => Post(
+    id: json['id'] as String,
+    title: json['title'] as String,
+    body: json['body'] as String,
+    likes: json['likes'] as int,
+    likedByUser: json['likedByUser'] as bool,
+  );
 }

@@ -36,6 +36,8 @@ dependencies:
   cupertino_icons: ^1.0.8
   flutter_dotenv: ^5.2.1
   firebase_core: ^3.14.0
+  hydrated_bloc: ^10.1.1
+  path_provider: ^2.1.5
 
   todo_app:
     path: packages/todo_app

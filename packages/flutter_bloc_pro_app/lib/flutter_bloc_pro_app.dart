@@ -8,7 +8,7 @@ import 'repositories/auth_repository.dart';
 import 'repositories/posts_repository.dart';
 
 class FlutterBlocProApp extends StatelessWidget {
-  const FlutterBlocProApp({Key? key}) : super(key: key);
+  const FlutterBlocProApp({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -26,7 +26,7 @@ class FlutterBlocProApp extends StatelessWidget {
         providers: [
           BlocProvider<AuthBloc>(
             create:
-                (context) =>
+                (_) =>
                     AuthBloc(authRepository: authRepository)..add(AppStarted()),
           ),
           BlocProvider<ThemeCubit>(create: (_) => ThemeCubit()),

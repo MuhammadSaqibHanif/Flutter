@@ -1,14 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+
 import '../blocs/auth/auth_bloc.dart';
 import '../blocs/auth/auth_event.dart';
 import '../blocs/auth/auth_state.dart';
+import '../widgets/infinite_list.dart';
+import '../widgets/post_list_item.dart';
 import '../blocs/posts/posts_bloc.dart';
 import '../blocs/posts/posts_event.dart';
 import '../blocs/posts/posts_state.dart';
 import '../repositories/posts_repository.dart';
-import '../widgets/infinite_list.dart';
-import '../widgets/post_list_item.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
@@ -28,6 +29,10 @@ class HomeScreen extends StatelessWidget {
         appBar: AppBar(
           title: const Text('Home Feed'),
           actions: [
+            IconButton(
+              onPressed: () => Navigator.of(context).pushNamed('/search'),
+              icon: const Icon(Icons.search),
+            ),
             BlocListener<AuthBloc, AuthState>(
               listener: (context, state) {
                 if (state is AuthUnauthenticated) {

@@ -1,15 +1,17 @@
 # Flutter BLoC Pro App — Full Example (Production-quality patterns)
 
-A complete Flutter sample app built around **flutter_bloc 9.1.1** showing advanced, professional usage of Bloc & Cubit across a multi-screen app. The goal: after studying this project you'll understand Bloc events/states/transformations, Cubit, BlocListeners, BlocSelector, repository pattern, dependency injection via RepositoryProvider, pagination, optimistic updates, error handling, testing hooks, and best practices for real-world apps.
+A complete Flutter sample app built around **flutter_bloc 9.1.1** showing advanced, professional usage of Bloc & Cubit across a multi-screen app. The goal: after studying this project you'll understand Bloc events/states/transformations, Cubit, BlocListeners, BlocSelector, repository pattern, dependency injection via RepositoryProvider, pagination, optimistic updates, error handling, testing hooks, HydratedBloc persistence, and best practices for real-world apps.
 
 ---
 
 ## What this app does (feature highlights)
 
-- Authentication flow (login/logout) using `AuthBloc` (Bloc + events + states).
+- Authentication flow (login/logout) using `AuthBloc` (Bloc + events + states) persisted with `HydratedBloc`.
 - Home feed with posts (paginated) using `PostsBloc` with pagination, refresh and error handling.
 - Post details screen and ability to like/unlike posts with optimistic updates via `PostsBloc`.
-- Theme switching using `ThemeCubit` with saved preference (simulated persistence).
+- Search screen powered by `SearchCubit` using debouncing and `BlocSelector` for selective rebuilds.
+- Theme switching using `ThemeCubit` persisted via `HydratedCubit`.
+- Post list item refactored to use `BlocSelector` selecting the post by `id` (efficient, realistic pattern).
 - Global error handling via `BlocListener` and `ScaffoldMessenger`.
 - Repository layer separation and test-friendly design.
 - Well-structured folder layout (models, repositories, blocs, screens, widgets, utils).
@@ -45,7 +47,8 @@ lib/
 │  ├─ splash_screen.dart
 │  ├─ login_screen.dart
 │  ├─ home_screen.dart
-│  └─ post_detail_screen.dart
+│  ├─ post_detail_screen.dart
+│  └─ search_screen.dart
 ├─ widgets/
 │  ├─ post_list_item.dart
 │  └─ infinite_list.dart

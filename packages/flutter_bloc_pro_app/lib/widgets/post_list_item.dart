@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+
 import '../models/post.dart';
 import '../blocs/posts/posts_bloc.dart';
 import '../blocs/posts/posts_event.dart';
@@ -11,6 +12,7 @@ class PostListItem extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    // Select the single post from PostsBloc by id. Returns null if not available yet.
     return Card(
       child: ListTile(
         title: Text(post.title),
