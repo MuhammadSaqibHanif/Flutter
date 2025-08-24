@@ -53,6 +53,8 @@ dependencies:
     path: packages/favorite_places_app
   expense_tracker_app:
     path: packages/expense_tracker_app
+  flutter_bloc_pro_app:
+    path: packages/flutter_bloc_pro_app
 
 dev_dependencies:
   flutter_test:

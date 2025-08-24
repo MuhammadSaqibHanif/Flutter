@@ -11,6 +11,7 @@ import 'package:roll_dice_app/roll_dice_app.dart';
 import 'package:shopping_list_app/shopping_list_app.dart';
 import 'package:favorite_places_app/favorite_places_app.dart';
 import 'package:expense_tracker_app/expense_tracker_app.dart';
+import 'package:flutter_bloc_pro_app/flutter_bloc_pro_app.dart';
 
 import 'package:chat_app/firebase_options.dart';
 
@@ -104,6 +105,11 @@ const apps = [
   {'name': 'Shopping List App', 'icon': '🛒', 'widget': ShoppingListApp()},
   {'name': 'Favorite Places App', 'icon': '📍', 'widget': FavoritePlacesApp()},
   {'name': 'Chat App', 'icon': '💬', 'widget': ChatApp()},
+  {
+    'name': 'Flutter Bloc Pro App',
+    'icon': '*💬*',
+    'widget': FlutterBlocProApp(),
+  },
 ];
 
 class MyHomePage extends StatelessWidget {

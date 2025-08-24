@@ -1,0 +1,20 @@
+name: flutter_bloc_pro_app
+description: Professional-level Flutter app demonstrating flutter_bloc usage.
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^9.1.1
+  equatable: ^2.0.3
+  http: ^1.4.0
+  uuid: ^4.5.1
+  bloc_concurrency: ^0.3.0
+  stream_transform: ^2.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
