@@ -12,7 +12,7 @@ This project demonstrates clean architecture, modularization, and state manageme
 - 📦 **Reusable Components** — Shared themes, utilities, and assets
 - 📱 **Single Entry Point** — A master app that lists and navigates to all apps
 - 🎨 **Attractive UI** — Emoji-based icons for quick recognition
-- 🧩 **8 Showcase Apps** — See the full list below
+- 🧩 **9 Showcase Apps** — See the full list below
 
 ---
 
@@ -33,23 +33,25 @@ master_app/
     ├─ meals_app/
     ├─ shopping_list_app/
     ├─ favorite_places_app/
-    └─ chat_app/
+    ├─ chat_app/
+    └─ flutter_bloc_pro_app/
 ```
 
 ---
 
 ## 📋 Included Apps
 
-| Icon | App Name              | Description                              |
-| ---- | --------------------- | ---------------------------------------- |
-| 🎲   | **Roll Dice App**     | Roll virtual dice with a simple tap      |
-| 🧠   | **Quiz App**          | Test your knowledge with fun quizzes     |
-| 💰   | **Expense Tracker**   | Track and manage your daily expenses     |
-| 📝   | **Todo App**          | Manage your tasks and boost productivity |
-| 🍽️   | **Meals App**         | Browse and save delicious recipes        |
-| 🛒   | **Shopping List App** | Create and manage your shopping lists    |
-| 📍   | **Favorite Places**   | Save and view your favorite locations    |
-| 💬   | **Chat App**          | Real-time messaging app with Firebase    |
+| Icon | App Name              | Description                               |
+| ---- | --------------------- | ----------------------------------------- |
+| 🎲   | **Roll Dice App**     | Roll virtual dice with a simple tap       |
+| 🧠   | **Quiz App**          | Test your knowledge with fun quizzes      |
+| 💰   | **Expense Tracker**   | Track and manage your daily expenses      |
+| 📝   | **Todo App**          | Manage your tasks and boost productivity  |
+| 🍽️   | **Meals App**         | Browse and save delicious recipes         |
+| 🛒   | **Shopping List App** | Create and manage your shopping lists     |
+| 📍   | **Favorite Places**   | Save and view your favorite locations     |
+| 💬   | **Chat App**          | Real-time messaging app with Firebase     |
+| 🧩   | **Bloc Mastery App**  | Flutter BLoC Pro App (Production-quality) |
 
 ---
 
@@ -67,6 +69,7 @@ master_app/
 | Shopping List App   | ![Shopping List](assets/previews/shopping_list.gif)     |
 | Favorite Places App | ![Favorite Places](assets/previews/favorite_places.gif) |
 | Chat App            | ![Chat](assets/previews/chat.gif)                       |
+| Bloc Mastery App    | ![Bloc Mastery](assets/previews/bloc_astery.gif)        |
 
 ---
 

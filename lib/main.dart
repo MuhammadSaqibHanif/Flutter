@@ -105,11 +105,7 @@ const apps = [
   {'name': 'Shopping List App', 'icon': '🛒', 'widget': ShoppingListApp()},
   {'name': 'Favorite Places App', 'icon': '📍', 'widget': FavoritePlacesApp()},
   {'name': 'Chat App', 'icon': '💬', 'widget': ChatApp()},
-  {
-    'name': 'Flutter Bloc Pro App',
-    'icon': '*💬*',
-    'widget': FlutterBlocProApp(),
-  },
+  {'name': 'Bloc Mastery App', 'icon': '🧩', 'widget': FlutterBlocProApp()},
 ];
 
 class MyHomePage extends StatelessWidget {
