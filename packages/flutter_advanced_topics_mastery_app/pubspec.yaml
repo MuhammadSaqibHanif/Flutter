@@ -1,0 +1,14 @@
+name: flutter_advanced_topics_mastery_app
+description: Professional-level Flutter advanced topics mastery apps demonstrating their usage.
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter

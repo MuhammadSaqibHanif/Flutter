@@ -307,6 +307,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_advanced_topics_mastery_app:
+    dependency: "direct main"
+    description:
+      path: "packages/flutter_advanced_topics_mastery_app"
+      relative: true
+    source: path
+    version: "1.0.0+1"
   flutter_bloc:
     dependency: transitive
     description:

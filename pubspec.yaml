@@ -57,6 +57,8 @@ dependencies:
     path: packages/expense_tracker_app
   flutter_bloc_pro_app:
     path: packages/flutter_bloc_pro_app
+  flutter_advanced_topics_mastery_app:
+    path: packages/flutter_advanced_topics_mastery_app
 
 dev_dependencies:
   flutter_test:
