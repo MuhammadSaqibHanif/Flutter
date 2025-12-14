@@ -107,6 +107,10 @@ After completing this master app, I should be able to:
 - Prioritize **understanding over completion speed**
 - Each topic should be implemented the way a Senior/Staff engineer would do it
 - Code should be production-ready, not tutorial-quality
+- Flutter SDK: Use the current stable release (v3.38.xx or latest available)
+- Dependencies: All packages in pubspec.yaml must be current stable versions
+- Implementation: Follow current Flutter best practices and conventions
+- Ensure all code, packages, and configurations are up-to-date as of the current date
 - Assume I want to learn **expert-level patterns**, not beginner shortcuts
 - When there are multiple approaches, explain trade-offs and pick the best one
 
@@ -1555,6 +1559,3 @@ Decision: [Chosen option and rationale]
 18. Marketing best practices for mobile apps
 
 ---
-
-Claude Sonnet 4.5 (Anthropic) PAID
-(the GPT-4.1 “developer/coding” model). PAID
