@@ -61,6 +61,11 @@
 - Write their meaning in English (use Urdu only if you must)
 - Create YOUR OWN example sentence
 
+- Check meanings in **English dictionary only** (like Cambridge Dictionary)
+- In your notebook, write meaning in English first
+- Add Urdu translation only if you need it to remember
+- Goal: Gradually reduce Urdu translations over 30 days
+
 **Format**:
 
 ```
@@ -138,10 +143,11 @@ My sentence: "I've never used Python for AI, but I'll give it a shot."
 
 **What to do:**
 
-- Listen to English while relaxing
+- Listen to English for at least 10 minutes before bed
 - VOA Learning English (slow news)
 - BBC Learning English podcasts
 - Just let English sounds fill your ears
+- Can continue longer while falling asleep if you want
 
 **Goal**: Train your ear, even when not actively studying
 

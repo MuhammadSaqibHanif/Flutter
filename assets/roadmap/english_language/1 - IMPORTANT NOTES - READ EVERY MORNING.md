@@ -27,7 +27,7 @@
 
 ### Daily Habits:
 
-- Check meanings in **English dictionary only** (not Urdu)
+- Check meanings in **English dictionary only** (not Urdu) (like Cambridge Dictionary)
 - **Record everything** - Your phone's voice recorder is your best friend. Listening to yourself helps you find and fix your own mistakes. It also shows you how much you are improving
 - **Mirror talk daily** - Try speaking for 5–10 minutes without stopping (even if you repeat yourself or make mistakes). looking at yourself; strong eye contact; slow pace
 - **Think in English all day** - See a cup? Think "cup". Hungry? Think "I am hungry"
@@ -35,4 +35,4 @@
 - Engage in real conversation as often as possible.
 - Focus on chunks, not single words. Use those phrases directly into your interview answers and workplace talk.
 
-## See 4 (Current Week), 5
+## See 4, 5 (Current Week), 11, 13, 14

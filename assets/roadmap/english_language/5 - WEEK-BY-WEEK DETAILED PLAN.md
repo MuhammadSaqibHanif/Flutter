@@ -212,6 +212,12 @@
 - Evening Session: 90 minutes (Interview practice)
 - Before Bed: 15 minutes (Step 9)
 
+Evening Session Breakdown (90 minutes):
+- Mock interview practice: 30 minutes
+- Technical explanation practice: 20 minutes
+- ChatGPT conversation: 20 minutes
+- Review + Listen without subtitles: 20 minutes
+
 ### Special Week 3 Activities:
 
 **Day 15-17: Interview Question Marathon**
@@ -284,6 +290,12 @@ Practice these EVERY day:
 3. Say: "Let's have a practice interview. You ask me questions, I'll answer."
 4. Speak naturally, don't worry about mistakes
 
+**Note:** ChatGPT voice mode requires ChatGPT Plus subscription ($20/month). 
+**Free alternatives:** 
+- Use text chat with ChatGPT and read responses aloud
+- Use Google Assistant or Siri to practice speaking
+- Record yourself asking/answering questions
+
 ### Week 3 Vocabulary Target:
 
 **Add 100+ words (Total: 300+)**
@@ -349,6 +361,12 @@ Practice these EVERY day:
 - Morning Session: 60 minutes (Steps 1-4 + Extra scenes)
 - Evening Session: 100 minutes (Full interviews + presentations)
 - Before Bed: 20 minutes (Reflection + Planning)
+
+Evening Session Breakdown (100 minutes):
+- Full mock interview: 45 minutes
+- Workplace scenarios: 30 minutes
+- Advanced practice activities: 15 minutes
+- Review: 10 minutes
 
 ### Special Week 4 Activities:
 
@@ -425,6 +443,12 @@ Practice salary discussion:
 2. Listen to your Day 30 recording
 3. Write down your improvements
 4. Celebrate your achievement! 🎉
+
+**Day 30 is different:**
+- Morning: Full Interview (60 minutes)
+- Afternoon: Normal session (45 minutes)
+- Evening: Light review + Celebration (30 minutes)
+- **Total: About 2-2.5 hours** (lighter day to celebrate!)
 
 ### Week 4 Advanced Vocabulary:
 

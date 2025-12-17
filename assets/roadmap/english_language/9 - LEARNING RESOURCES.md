@@ -22,6 +22,14 @@
 4. **Learn English with EnglishClass101**
 5. **Tech talks** - search for your technology + "tutorial"
 
+- TED Talks (Technology topics)
+- Google Developer channels
+- Microsoft Build conferences
+- Y Combinator Startup School
+- Watch job interview tips videos
+- Call English-speaking businesses with simple questions
+- Watch interviews of famous people on YouTube
+
 ### Language Exchange Apps:
 
 1. **HelloTalk** - chat with native speakers

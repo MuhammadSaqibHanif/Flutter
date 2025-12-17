@@ -1,5 +1,10 @@
 ## 📺 YOUR NETFLIX LEARNING LIBRARY
 
+**Important:** Netflix show availability varies by region. If a show isn't available in Pakistan:
+- Use VPN (legal alternatives: ExpressVPN, NordVPN)
+- Alternative: YouTube has many clips and full episodes of these shows
+- Check Pakistani Netflix for similar shows (Any office/workplace drama works!)
+
 ### Week 1-2: Start Simple
 
 - **Emily in Paris** (You already like it! Perfect for business English)
@@ -24,15 +29,5 @@
 - **The Office (US)** - Daily office conversations
 - **Ted Lasso** (Simple, clear English, positive attitude)
 - **Stranger Things** (If you want something fun and easy)
-
-### YouTube Channels for IT English:
-
-- TED Talks (Technology topics)
-- Google Developer channels
-- Microsoft Build conferences
-- Y Combinator Startup School
-- Watch job interview tips videos
-- Call English-speaking businesses with simple questions
-- Watch interviews of famous people on YouTube
 
 ---
