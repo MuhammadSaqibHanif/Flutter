@@ -34,10 +34,22 @@ I've completed the **THREE-PHASE approach** you requested:
 #### 1. **Complete Flutter Interview Questions** (01_COMPLETE_FLUTTER_INTERVIEW_QUESTIONS.md)
 
 - 200+ questions from real interviews
-- Organized by difficulty and topic
+- **12 organized sections:**
+  1. Flutter Fundamentals (Q1-Q20)
+  2. Widget System & Lifecycle (Q21-Q25)
+  3. State Management (Q26-Q35)
+  4. Architecture & Design Patterns (Q36-Q50)
+  5. Performance Optimization (Q51-Q60)
+  6. Platform Integration (Q61-Q70)
+  7. Networking & APIs (Q71-Q90)
+  8. Testing (Q91-Q105)
+  9. Advanced Dart (Q106-Q125)
+  10. System Design (Q126-Q135)
+  11. Common Mistakes (Q136-Q150)
+  12. Behavioral + Live Coding (Q151-Q200)
 - Code examples with explanations
 - Common pitfalls to avoid
-- **Use for:** Daily review, quick reference
+- **Use for:** Daily review, quick reference before interviews
 
 #### 2. **State Management Mastery** (02_STATE_MANAGEMENT_MASTERY.md)
 
@@ -99,13 +111,82 @@ I've completed the **THREE-PHASE approach** you requested:
 
 ## 🎯 How to Use These Materials
 
+### Quick Navigation - Document 01 (Interview Questions)
+
+```
+Section 1: Flutter Fundamentals (Q1-Q20)
+├── What is Flutter, hot reload, BuildContext
+├── Keys, lifecycle basics, const
+└── Futures, Streams, async/await basics
+
+Section 2: Widget System (Q21-Q25)
+├── StatefulWidget lifecycle (CRITICAL!)
+├── StatelessWidget vs StatefulWidget
+└── InheritedWidget, didChangeDependencies
+
+Section 3: State Management (Q26-Q35)
+├── setState, Provider, ChangeNotifier
+├── BLoC pattern explained
+└── Riverpod, ValueNotifier, StreamBuilder
+
+Section 4: Architecture (Q36-Q50)
+├── Clean Architecture (Domain/Data/Presentation)
+├── MVVM, Repository pattern
+└── SOLID, Design patterns
+
+Section 5: Performance (Q51-Q60)
+├── Identifying jank, memory leaks
+├── ListView optimization, const
+└── RepaintBoundary, tree shaking
+
+Section 6: Platform (Q61-Q70)
+├── MethodChannel, EventChannel
+├── Permissions, device features
+└── iOS vs Android differences
+
+Section 7: Networking (Q71-Q90)
+├── HTTP requests with Dio
+├── Error handling, retry logic
+└── WebSockets, GraphQL
+
+Section 8: Testing (Q91-Q105)
+├── Unit, Widget, Integration tests
+├── Mocking, test coverage
+└── BLoC testing, Golden tests
+
+Section 9: Advanced Dart (Q106-Q125)
+├── Isolates, Generators
+├── Extension methods, Mixins
+└── Null safety, Generics
+
+Section 10: System Design (Q126-Q135)
+├── WhatsApp, Instagram design
+├── Uber, Twitter architecture
+└── Mobile system design patterns
+
+Section 11: Common Mistakes (Q136-Q150)
+├── Memory leaks, setState errors
+├── BuildContext issues
+└── Performance anti-patterns
+
+Section 12: Behavioral (Q151-Q200)
+├── STAR method stories
+├── Company-specific questions
+└── Live coding scenarios
+```
+
+---
+
 ### For Interview Preparation (Your Case)
 
 **Week 1-4: Fundamentals**
 
 ```
 Monday-Wednesday:
-- Read: 01_COMPLETE_FLUTTER_INTERVIEW_QUESTIONS.md (sections 1-3)
+- Read: 01_COMPLETE_FLUTTER_INTERVIEW_QUESTIONS.md
+  * Flutter Fundamentals (Q1-Q20)
+  * Widget System & Lifecycle (Q21-Q25)
+  * State Management (Q26-Q35)
 - Practice: LeetCode Easy problems
 - Review: Your existing projects
 
@@ -162,7 +243,7 @@ Weekend:
 
 ### Day 1-2: Flutter Fundamentals
 
-- [ ] Read sections 1-3 of document 01
+- [ ] Read Q1-Q35 of document 01 (Fundamentals + Widgets + State Management basics)
 - [ ] Review StatefulWidget lifecycle
 - [ ] Practice 5 LeetCode easy problems
 - [ ] Review your resume projects
