@@ -1,3 +1,10 @@
+# Learn priority
+
+Read this file
+
+- 01_COMPLETE_FLUTTER_INTERVIEW_QUESTIONS.md
+- 00 02 03 04 05 .mds
+
 Today: Download all files
 Week 1-4: Study fundamentals + LeetCode
 Week 5-8: Advanced topics + System Design  
@@ -10,6 +17,7 @@ Month 5: Accept $200K-$500K+ offer! 🎉
 # DONE Quick Read -
 
 ├── 00_START_HERE_README.md
+├── 01_COMPLETE_FLUTTER_INTERVIEW_QUESTIONS.md
 ├── 02_STATE_MANAGEMENT_MASTERY.md
 ├── 03_MOBILE_SYSTEM_DESIGN_GUIDE.md
 ├── 04_PERFORMANCE_OPTIMIZATION_GUIDE.md
@@ -17,8 +25,6 @@ Month 5: Accept $200K-$500K+ offer! 🎉
 ├── TOPIC_COVERAGE_MATRIX.md
 ├── ARCHITECTURE_PROPOSAL.md
 └── IMPLEMENTATION_ROADMAP.md
-
-├── 01_COMPLETE_FLUTTER_INTERVIEW_QUESTIONS.md
 
 # Below is Claude response:
 
