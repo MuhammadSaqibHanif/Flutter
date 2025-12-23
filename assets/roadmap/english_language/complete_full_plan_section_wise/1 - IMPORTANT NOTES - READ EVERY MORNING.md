@@ -34,5 +34,3 @@
 - Chat with a native or fluent speaker for 10–15 minutes
 - Engage in real conversation as often as possible.
 - Focus on chunks, not single words. Use those phrases directly into your interview answers and workplace talk.
-
-## See 4, 5 (Current Week), 11, 13, 14
