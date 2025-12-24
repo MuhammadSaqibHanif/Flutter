@@ -12,6 +12,34 @@ Week 9-12: Build apps + Mock interviews
 Month 4: Apply + Interview
 Month 5: Accept $200K-$500K+ offer! 🎉
 
+## FAST TRACK (3-4 Months to Offers) ⚡
+
+Best if: You need job ASAP, confident in existing projects
+
+Week 1-2: Fundamentals Review
+├── Read Document 01 (Q1-Q50)
+├── Practice 20 LeetCode (Easy/Medium)
+├── Polish your best existing app
+└── Update resume with metrics
+
+Week 3-4: Deep Dive
+├── Read Documents 02, 03, 04
+├── Practice 30 LeetCode (Medium)
+├── Design 10 systems on paper
+└── Prepare 10 STAR stories
+
+Week 5-8: Interview Ready
+├── Read Document 05
+├── Practice 50 LeetCode total
+├── 10+ mock interviews
+├── Apply to 15-20 companies
+
+Week 9-16: Interview Loop
+├── Phone screens (2-3 per week)
+├── Onsites (1-2 per week)  
+├── Get 2-3+ offers
+└── NEGOTIATE & ACCEPT!
+
 ### Quick Navigation - Document 01 (Interview Questions)
 
 # DONE Quick Read -
