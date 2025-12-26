@@ -247,3 +247,57 @@
 - SSD - Solid State Drive
 
 ---
+
+
+### Top 50 IT Action Verbs
+
+1. Develop
+2. Build
+3. Create
+4. Design
+5. Implement
+6. Deploy
+7. Test
+8. Debug
+9. Fix
+10. Optimize
+11. Improve
+12. Enhance
+13. Update
+14. Maintain
+15. Monitor
+16. Analyze
+17. Review
+18. Refactor
+19. Integrate
+20. Configure
+21. Install
+22. Upgrade
+23. Migrate
+24. Scale
+25. Automate
+26. Document
+27. Collaborate
+28. Communicate
+29. Present
+30. Demonstrate
+31. Explain
+32. Teach
+33. Learn
+34. Research
+35. Investigate
+36. Troubleshoot
+37. Resolve
+38. Handle
+39. Manage
+40. Lead
+41. Coordinate
+42. Plan
+43. Execute
+44. Deliver
+45. Achieve
+46. Complete
+47. Finish
+48. Provide
+49. Support
+50. Contribute

@@ -160,3 +160,57 @@ I'm also a good team player. I enjoy collaborating with other developers and sha
 - Do daily mock interviews with yourself (Record)
 - Practice salary negotiations: "Based on my experience...", "I was hoping for..."
 - Hunt for vocabulary related to meetings, emails, and projects (e.g., "deadline," "teamwork," "follow up," "proposal").
+
+
+### Top 50 Interview Words
+
+1. Experience
+2. Responsibility
+3. Achievement
+4. Challenge
+5. Solution
+6. Team
+7. Project
+8. Skills
+9. Strength
+10. Weakness
+11. Opportunity
+12. Goal
+13. Success
+14. Improvement
+15. Development
+16. Leadership
+17. Communication
+18. Collaboration
+19. Innovation
+20. Deadline
+21. Priority
+22. Quality
+23. Efficiency
+24. Performance
+25. Results
+26. Contribution
+27. Initiative
+28. Problem-solving
+29. Decision-making
+30. Adaptability
+31. Flexibility
+32. Commitment
+33. Dedication
+34. Motivation
+35. Passion
+36. Expertise
+37. Knowledge
+38. Learning
+39. Growth
+40. Progress
+41. Professional
+42. Reliable
+43. Organized
+44. Detail-oriented
+45. Proactive
+46. Creative
+47. Analytical
+48. Strategic
+49. Technical
+50. Practical
