@@ -17,6 +17,11 @@
 
 ---
 
+If don't understand any day ask here
+https://claude.ai/chat/447d9e92-505c-40fb-b5ee-9bfc797dd1c8
+
+---
+
 ## 🎯 What's in Each Day
 
 Every day has the SAME structure (so it's easy!):
