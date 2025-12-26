@@ -1364,3 +1364,48 @@ Q2: "How do you approach debugging?"
 
 **Next:** Open WEEK_3_DAYS_15-21_COMPLETE.md
 
+
+### Week 2 Vocabulary Target:
+
+**Add 100 more words (Total: 200)**
+
+**IT Meeting Phrases**:
+
+- "Let's have a standup meeting"
+- "I'm working on..."
+- "I'm blocked by..."
+- "Can someone help me with...?"
+- "I'll look into it"
+- "Let me check and get back to you"
+- "That makes sense"
+- "I see what you mean"
+
+**Technical Action Verbs**:
+
+1. Build / Compile
+2. Configure / Setup
+3. Create / Develop
+4. Delete / Remove
+5. Deploy / Release
+6. Design
+7. Execute / Run
+8. Fix / Resolve
+9. Implement
+10. Install
+11. Integrate
+12. Maintain
+13. Modify / Update
+14. Optimize
+15. Refactor
+16. Review
+17. Scale
+18. Test / Validate
+19. Troubleshoot
+20. Upgrade
+
+### Week 2 Milestone Test:
+
+✅ Can speak for 5 minutes about your work  
+✅ Know 200+ professional words  
+✅ Can ask questions confidently  
+✅ Starting to think in English (not always translating)

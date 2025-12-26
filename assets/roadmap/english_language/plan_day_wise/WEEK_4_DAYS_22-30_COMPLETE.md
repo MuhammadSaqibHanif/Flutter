@@ -768,3 +768,73 @@ I DID IT.
 
 **You've got this!** 💪🔥🚀
 
+
+
+### Week 4 Advanced Vocabulary:
+
+**Add 100+ words (Total: 400+)**
+
+**Advanced IT Terms**:
+
+1. Architecture
+2. Authentication
+3. Automation
+4. Bandwidth
+5. Caching
+6. Cloud Native
+7. Containerization
+8. CI/CD (Continuous Integration/Deployment)
+9. Cybersecurity
+10. Data Structure
+11. DevOps
+12. Documentation
+13. Encryption
+14. Load Balancing
+15. Microservices
+16. Migration
+17. Monitoring
+18. Performance
+19. Scalability
+20. Security
+21. Synchronization
+22. Thread
+23. Virtualization
+24. Webhook
+
+**Leadership & Teamwork**:
+
+- "I mentored junior developers"
+- "I led the project from start to finish"
+- "I coordinated with cross-functional teams"
+- "I took ownership of..."
+- "I prioritized tasks based on..."
+- "I communicated regularly with stakeholders"
+- "I facilitated meetings"
+- "I motivated the team by..."
+
+**Results & Achievements**:
+
+- "I increased efficiency by 30%"
+- "I reduced bugs by 50%"
+- "I delivered the project ahead of schedule"
+- "I saved the company X amount"
+- "I improved the user experience"
+- "I automated manual processes"
+- "This led to better performance"
+- "The outcome was successful"
+
+### Week 4 Milestone Test:
+
+✅ Can speak confidently for 15-20 minutes about work topics  
+✅ Can handle full interview in English  
+✅ Can present technical information clearly  
+✅ Know 400+ professional words and phrases  
+✅ Think in English most of the time (minimal translation)  
+✅ Ready for real job interviews!
+
+---
+
+- Full Mock Interviews (45 mins): Complete interview simulations
+- Presentation Practice (30 mins): Prepare and deliver short presentations
+- Morning: 2 hours complete interview practice
+- Evening: 2 hours workplace conversation practice

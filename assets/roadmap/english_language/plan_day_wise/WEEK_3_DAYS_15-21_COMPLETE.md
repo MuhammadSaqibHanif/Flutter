@@ -276,3 +276,56 @@ Watch: "Advanced English for Professionals"
 
 **You're in the final stretch! Week 4 will make you fluent!**
 
+
+
+### Week 3 Vocabulary Target:
+
+**Add 100+ words (Total: 300+)**
+
+**Complete Interview Phrase Bank**:
+
+**Opening/Closing**:
+
+- "Thank you for having me"
+- "I appreciate the opportunity"
+- "Do you have any questions for me?"
+- "When can I expect to hear back?"
+- "I'm very interested in this position"
+
+**Describing Experience**:
+
+- "In my previous role..."
+- "I was responsible for..."
+- "I worked on a project where..."
+- "My main achievement was..."
+- "I successfully implemented..."
+- "I led a team of..."
+- "I collaborated with..."
+
+**Technical Discussion**:
+
+- "The system architecture includes..."
+- "We use a microservices approach"
+- "The database is designed to..."
+- "We follow agile methodology"
+- "The application handles..."
+- "I optimized the performance by..."
+- "We integrated with..."
+- "The tech stack consists of..."
+
+**Problem-Solving**:
+
+- "I faced a challenge when..."
+- "I analyzed the situation"
+- "I decided to..."
+- "The solution was to..."
+- "This resulted in..."
+- "I learned that..."
+
+### Week 3 Milestone Test:
+
+✅ Can answer basic interview questions fluently (2-3 minutes each)  
+✅ Can explain technical concepts in simple English  
+✅ Know 300+ professional words  
+✅ Comfortable with ChatGPT voice conversations  
+✅ Reduced translation habit significantly
