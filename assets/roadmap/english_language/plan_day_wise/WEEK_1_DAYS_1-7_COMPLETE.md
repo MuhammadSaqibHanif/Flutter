@@ -210,7 +210,7 @@
 
 # 📅 DAY 1: YOUR FIRST DAY! 🎉🎊
 
-**Date:** ___________  
+**Date:** 29-Dec-2025  
 **Today's Mission:** Watch first Emily scene, learn 5 words, speak for 2 minutes  
 **Time Needed:** Approximately 2 hours total (spread throughout the day)
 
@@ -238,7 +238,7 @@
 **Step 5:** Set your intention for today:
 Say out loud: "Today I will learn 5 new words, watch Emily in Paris, and speak for 2 minutes. I can do this!"
 
-✅ **Morning mindset done?** Check here: [ ]
+✅ **Morning mindset done?** Check here: [✅]
 
 ---
 
@@ -270,7 +270,7 @@ Emily is in Chicago at her office. She finds out she might go to Paris for work.
 
 **Pro Tip:** Try to understand the general story. What is Emily's mood? Is she happy? Nervous? Excited?
 
-✅ **Watched once?** Check here: [ ]
+✅ **Watched once?** Check here: [✅]
 
 **Quick Question:** Can you remember what Emily's job is? (Don't worry if you can't - you'll watch again!)
 
@@ -300,9 +300,9 @@ Emily is in Chicago at her office. She finds out she might go to Paris for work.
 
 **Keep a small notebook nearby!** Write down any words you want to learn.
 
-✅ **Watched carefully with pauses?** Check here: [ ]
+✅ **Watched carefully with pauses?** Check here: [✅]
 
-**Self-Check:** Do you understand more now than the first time? (The answer should be YES!)
+**Self-Check:** Do you understand more now than the first time? (The answer should be YES!) YES
 
 ---
 
@@ -337,7 +337,7 @@ You listen to Emily speak, then you COPY her exactly - like her shadow!
 - Don't be shy - speak LOUDLY
 - Copy Emily's energy and emotions!
 
-✅ **Practiced all 5 sentences?** Check here: [ ]
+✅ **Practiced all 5 sentences?** Check here: [✅]
 
 ---
 
@@ -384,7 +384,7 @@ You listen to Emily speak, then you COPY her exactly - like her shadow!
 
 **Why?** Because you need to practice using the word in YOUR life, YOUR situation!
 
-✅ **Wrote all 5 words with your own sentences?** Check here: [ ]
+✅ **Wrote all 5 words with your own sentences?** Check here: [✅]
 
 ---
 
@@ -437,7 +437,7 @@ Start your recording and speak about these points:
 3. Don't be too critical!
 4. Feel proud - you just spoke English for 2 minutes!
 
-✅ **Recorded your introduction?** Check here: [ ]
+✅ **Recorded your introduction?** Check here: [✅]
 
 **Pro Tip:** Save this recording. On Day 30, you'll listen to it again and be AMAZED at your progress!
 
