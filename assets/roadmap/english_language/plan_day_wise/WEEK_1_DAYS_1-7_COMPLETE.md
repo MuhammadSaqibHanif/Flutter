@@ -463,7 +463,7 @@ Start your recording and speak about these points:
 - Did you speak clearly?
 - Did you use any of today's new words?
 
-✅ **Practiced interview question?** Check here: [ ]
+✅ **Practiced interview question?** Check here: [✅]
 
 ---
 
@@ -489,7 +489,7 @@ Your sentences:
 1. _________________________________
 2. _________________________________
 
-✅ **Reviewed vocabulary?** Check here: [ ]
+✅ **Reviewed vocabulary?** Check here: [✅]
 
 ---
 
@@ -511,7 +511,7 @@ Your sentences:
 
 **Just watch and learn - don't stress!**
 
-✅ **Watched YouTube? (Optional)** Check here: [ ]
+✅ **Watched YouTube? (Optional)** Check here: [✅]
 
 ---
 
@@ -535,7 +535,7 @@ Your sentences:
 
 **Why this works:** Your brain learns even when you're relaxed!
 
-✅ **Listened before sleep?** Check here: [ ]
+✅ **Listened before sleep?** Check here: [✅]
 
 ---
 
@@ -547,11 +547,11 @@ You finished Day 1! You are already better than yesterday!
 
 **Quick Reflection (write this down):**
 
-1. How do I feel about Day 1? ________________________
-2. What was easy? ________________________
-3. What was challenging? ________________________
-4. What am I proud of? ________________________
-5. What will I do better tomorrow? ________________________
+1. How do I feel about Day 1? It was interesting and little bit difficult.
+2. What was easy? Step 8 and step 9 was easy
+3. What was challenging? Step 5 record yourself is the most challenging.
+4. What am I proud of? At least I start the English journey.
+5. What will I do better tomorrow? Try to complete steps on given time.
 
 **Tomorrow Preview:**
 - Watch more Emily in Paris (new scene!)
