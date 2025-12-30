@@ -24,25 +24,6 @@
 - Say: "Sorry, let me rephrase that..."
 - Continue confidently
 
-### Daily Checklist (Print & Use!)
-
-**Morning:**
-
-- [ ] Watch & analyze 1 scene (20 min)
-- [ ] Learn 5-7 new words (15 min)
-- [ ] Shadow speaking (10 min)
-
-**Evening:**
-
-- [ ] Record speaking practice (15 min)
-- [ ] Job practice (20 min)
-- [ ] Review yesterday's notes (10 min)
-
-**Before Sleep:**
-
-- [ ] Listen to English (10 min)
-- [ ] Think about tomorrow in English (5 min)
-
 ### Most Important Rules
 
 1. **NEVER skip a day** - even 15 minutes is better than nothing
