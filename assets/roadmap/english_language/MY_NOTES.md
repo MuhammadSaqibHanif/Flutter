@@ -314,6 +314,11 @@ Your goal is to be understood and to understand others. That's it. Perfection co
 - Real-world use = Real learning
 
 ---
+---
+---
+---
+---
+---
 
 ## ⏰ MORNING MINDSET (5 minutes) - Do RIGHT After Waking Up!
 

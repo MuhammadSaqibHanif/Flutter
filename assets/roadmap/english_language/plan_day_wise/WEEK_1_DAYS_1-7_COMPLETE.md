@@ -655,7 +655,7 @@ I work from 9 AM to 6 PM, Monday to Friday."
 - Play any recent video
 - Just relax and listen
 
-✅ **Listened?** Check: [ ]
+✅ **Listened?** Check: [✅]
 
 ---
 
@@ -682,7 +682,7 @@ I work from 9 AM to 6 PM, Monday to Friday."
 
 # 📅 DAY 3: OFFICE VOCABULARY! 💼
 
-**Date:** ___________  
+**Date:** 31-12-2025  
 **Today's Mission:** Emily's first day at office, learn work words, introduce your job  
 **Time Needed:** 2 hours
 
@@ -702,7 +702,7 @@ I AM BECOMING FLUENT!"
 
 **4-4-6 Breathing × 3 times**
 
-✅ **Energized?** Check: [ ]
+✅ **Energized?** Check: [✅]
 
 ---
 
@@ -720,7 +720,7 @@ Emily arrives at her new office in Paris! She meets her French colleagues! Notic
 
 **Just watch first - enjoy!**
 
-✅ **Watched?** Check: [ ]
+✅ **Watched?** Check: [✅]
 
 ---
 
@@ -736,7 +736,7 @@ Emily arrives at her new office in Paris! She meets her French colleagues! Notic
 
 **Pause after each sentence and repeat!**
 
-✅ **Deep listened?** Check: [ ]
+✅ **Deep listened?** Check: [✅]
 
 ---
 
@@ -756,7 +756,7 @@ Emily arrives at her new office in Paris! She meets her French colleagues! Notic
 
 Copy the exact tone from the show!
 
-✅ **Practiced?** Check: [ ]
+✅ **Practiced?** Check: [✅]
 
 ---
 
@@ -794,7 +794,7 @@ Copy the exact tone from the show!
    MY sentence: My team consists of five software engineers and one manager.
 ```
 
-✅ **Wrote vocabulary?** Check: [ ]
+✅ **Wrote vocabulary?** Check: [✅]
 
 ---
 
@@ -815,7 +815,7 @@ Example: "I am excited (Day 1) about my new project (Day 3) at the office (Day 3
 
 Your sentence: _________________________________
 
-✅ **Reviewed all?** Check: [ ]
+✅ **Reviewed all?** Check: [✅]
 
 **Total words you know now: 15!** 🎉
 
@@ -856,7 +856,7 @@ My goal is to become a technical lead in the next two years. I also want to work
 - Use today's new words!
 - Be specific about YOUR work!
 
-✅ **Recorded?** Check: [ ]
+✅ **Recorded?** Check: [✅]
 
 ---
 
@@ -881,7 +881,7 @@ My goal is to become a technical lead in the next two years. I also want to work
 
 **Record all THREE answers separately!**
 
-✅ **Practiced all 3?** Check: [ ]
+✅ **Practiced all 3?** Check: [✅]
 
 ---
 
@@ -898,7 +898,7 @@ My goal is to become a technical lead in the next two years. I also want to work
 - YouTube Search: "Business English Pod - Introduction"
 - Learn professional phrases!
 
-✅ **Watched?** Check: [ ]
+✅ **Watched?** Check: [✅]
 
 ---
 
@@ -913,7 +913,7 @@ My goal is to become a technical lead in the next two years. I also want to work
 - YouTube: "Easy English - Job Interviews"
 - Just listen and learn!
 
-✅ **Listened?** Check: [ ]
+✅ **Listened?** Check: [✅]
 
 ---
 
