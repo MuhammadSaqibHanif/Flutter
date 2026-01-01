@@ -1063,7 +1063,7 @@ Example: "I have a meeting with my colleague to discuss the project deadline."
 
 Your sentence: _________________________________
 
-✅ **Reviewed all 20 words?** Check: [ ]
+✅ **Reviewed all 20 words?** Check: [✅]
 
 ---
 
@@ -1101,7 +1101,7 @@ From this experience, I learned to always check the logs first and to add clear 
 
 **Your turn - speak for 3-4 minutes about YOUR problem!**
 
-✅ **Recorded both parts?** Check: [ ]
+✅ **Recorded both parts?** Check: [✅]
 
 ---
 
@@ -1123,7 +1123,7 @@ I believe good communication is the key to successful teamwork. When we communic
 
 **Record your answers!**
 
-✅ **Practiced?** Check: [ ]
+✅ **Practiced?** Check: [✅]
 
 ---
 
@@ -1136,7 +1136,7 @@ I believe good communication is the key to successful teamwork. When we communic
 
 Take notes!
 
-✅ **Watched?** Check: [ ]
+✅ **Watched?** Check: [✅]
 
 ---
 
@@ -1147,7 +1147,7 @@ Take notes!
 - OR YouTube: "VOA Learning English news slow"
 - Just relax and listen!
 
-✅ **Listened?** Check: [ ]
+✅ **Listened?** Check: [✅]
 
 ---
 
