@@ -124,24 +124,6 @@ Your goal is to be understood and to understand others. That's it. Perfection co
 
 ---
 
-# ⚡ HOW TO USE PLAN DAY WISE - READ THIS FIRST! ⚡
-
-## Super Simple 3-Step Process:
-
-### Every Morning:
-1. **Open TODAY's section only** (Example: Today is Day 5? Go to Day 5 section)
-2. **Follow each step in order** - Check the box ✅ when done
-3. **That's it!** You're done for the day!
-
-### Important Rules:
-- ❌ **DON'T read the whole document!** It will overwhelm you!
-- ✅ **ONLY read your current day**
-- ✅ **Complete one day at a time**
-- ✅ **Every day builds on the previous day**
-- ✅ **If you miss a day, just continue from where you left off**
-
----
-
 # 🔥 DAILY MOTIVATION BOOSTER 🔥
 ## Read This EVERY Single Morning Before Starting!
 
@@ -204,30 +186,6 @@ Your goal is to be understood and to understand others. That's it. Perfection co
 - DON'T apologize too much
 - Just say: "Sorry, let me say that again..."
 - Continue confidently!
-
----
-
-# 🛠️ TOOLS YOU NEED (One-Time Setup)
-
-## Essential Tools (You Must Have):
-1. ✅ **Netflix** - You have it! Perfect!
-2. ✅ **Phone Voice Recorder** - Built-in on your phone
-3. ✅ **Notebook OR Phone Notes App** - For vocabulary
-4. ✅ **YouTube App** - Free to download
-5. ✅ **Quiet Practice Space** - Your room/any quiet place
-
-## Optional But Helpful:
-6. **Mirror** - For practicing expressions
-7. **Headphones/Earphones** - For better listening
-8. **Google Translate** - Only for emergency (try to avoid!)
-
-## Setup Checklist (Do This Once, Day 0):
-- [ ] Netflix app installed and working
-- [ ] Voice recorder tested (record "Hello, this is a test" and play back)
-- [ ] Notebook ready OR notes app opened
-- [ ] YouTube app installed
-- [ ] Practice space identified
-- [ ] Excited and ready to start! 🎉
 
 ---
 

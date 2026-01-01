@@ -938,7 +938,7 @@ My goal is to become a technical lead in the next two years. I also want to work
 
 # 📅 DAY 4: ASKING QUESTIONS! ❓
 
-**Date:** ___________  
+**Date:** 01-01-2026  
 **Today's Mission:** Learn to ask questions, understand office conversations  
 **Time Needed:** 2 hours
 
@@ -956,7 +956,7 @@ LET'S DO THIS!"
 
 **Deep breathing × 3**
 
-✅ **Motivated?** Check: [ ]
+✅ **Motivated?** Check: [✅]
 
 ---
 
@@ -969,7 +969,7 @@ LET'S DO THIS!"
 
 **Focus:** How do people ask questions at work?
 
-✅ **Watched?** Check: [ ]
+✅ **Watched?** Check: [✅]
 
 ---
 
@@ -985,7 +985,7 @@ LET'S DO THIS!"
 
 **Write down 3-5 questions you hear!**
 
-✅ **Deep listened?** Check: [ ]
+✅ **Deep listened?** Check: [✅]
 
 ---
 
@@ -1009,7 +1009,7 @@ Compare:
 - **Statement (voice goes down):** "This is the meeting room."
 - **Question (voice goes up):** "Where is the meeting room?" ↗️
 
-✅ **Practiced?** Check: [ ]
+✅ **Practiced?** Check: [✅]
 
 ---
 
@@ -1046,7 +1046,7 @@ Compare:
    MY sentence: I check my schedule every morning to plan my day.
 ```
 
-✅ **Wrote vocabulary?** Check: [ ]
+✅ **Wrote vocabulary?** Check: [✅]
 
 ---
 
