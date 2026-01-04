@@ -1170,7 +1170,7 @@ Take notes!
 
 # 📅 DAY 5: MID-WEEK REVIEW & BOOST! ⚡
 
-**Date:** ___________  
+**Date:** 03-01-2026  
 **Today's Mission:** Review everything, practice longer speaking, finish Episode 1!  
 **Time Needed:** 2.5 hours
 
@@ -1192,7 +1192,7 @@ NOTHING CAN STOP ME NOW!"
 
 **Victory breathing × 5 times!**
 
-✅ **Celebrated?** Check: [ ]
+✅ **Celebrated?** Check: [✅]
 
 ---
 
@@ -1205,7 +1205,7 @@ NOTHING CAN STOP ME NOW!"
 
 **This is it!** Emily's first solution at work! Watch how she handles her first challenge!
 
-✅ **Watched?** Check: [ ]
+✅ **Watched?** Check: [✅]
 
 ---
 
@@ -1216,13 +1216,17 @@ NOTHING CAN STOP ME NOW!"
 **After watching, answer these questions (write them down):**
 
 1. What problem does Emily face?
+Emily was facing lonliness, and uncomfortable with her colleagues due to she doesn't speak English, and disrespectful behavioir of her colleagues because they little bit afraid of her because they think they need to do more work.
 2. What solution does she suggest?
+She suggest that it is the balance of life to work more, make more money and enjoys
 3. How do her colleagues react?
+He said she live to work, we work for live, and she doesn't know how to happy
 4. What work-related words did you hear?
+pay, accompalishment
 
 **Write your answers in English!**
 
-✅ **Watched & understood?** Check: [ ]
+✅ **Watched & understood?** Check: [✅]
 
 ---
 
@@ -1240,7 +1244,7 @@ NOTHING CAN STOP ME NOW!"
 
 **Say each 3 times with feeling and confidence!**
 
-✅ **Practiced?** Check: [ ]
+✅ **Practiced?** Check: [✅]
 
 ---
 
