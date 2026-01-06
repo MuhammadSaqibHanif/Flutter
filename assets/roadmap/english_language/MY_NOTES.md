@@ -277,6 +277,14 @@ Your goal is to be understood and to understand others. That's it. Perfection co
 ---
 ---
 ---
+---
+---
+---
+---
+---
+---
+---
+
 
 ## ⏰ MORNING MINDSET (5 minutes) - Do RIGHT After Waking Up!
 
@@ -385,7 +393,7 @@ You listen to Emily speak, then you COPY her exactly - like her shadow!
 
 ---
 
-## 🎤 STEP 5: EVENING SESSION - Record Yourself (15 minutes)
+## 🎤 STEP 6: EVENING SESSION - Record Yourself (15 minutes)
 
 **Topic for today:** "___"
 

@@ -1281,7 +1281,7 @@ pay, accompalishment
    MY sentence: I will try to complete this feature before the deadline.
 ```
 
-✅ **Vocabulary written?** Check: [ ]
+✅ **Vocabulary written?** Check: [✅]
 
 ---
 
@@ -1335,11 +1335,9 @@ Example using (meeting, solution, deadline, colleague, excited):
 "I am excited about tomorrow's meeting with my colleague. We will discuss the solution for the project. The deadline is next week, so we need to work quickly."
 
 **Your paragraph (use 5 words):**
-______________________________________________________
-______________________________________________________
-______________________________________________________
+We gasped when we heard the news of PIA's acquisition at a cheap price, but we chuckled when we heard the news that behind this deal there was a mafia. Only the mafia has the potential to do this. I feel overwhelmed when I think about my country."
 
-✅ **Completed mega review?** Check: [ ]
+✅ **Completed mega review?** Check: [✅]
 
 ---
 
@@ -1390,7 +1388,7 @@ In the future, I want to [future plans]."
 
 Record yourself - try to speak for 5 minutes! If you only manage 3-4 minutes on first try, that's OKAY! Record again until you reach 5 minutes!
 
-✅ **Recorded 5-minute speaking?** Check: [ ]
+✅ **Recorded 5-minute speaking?** Check: [✅]
 
 **After recording:**
 1. Listen back completely
@@ -1437,7 +1435,7 @@ Record yourself - try to speak for 5 minutes! If you only manage 3-4 minutes on 
 
 **Your 2-minute answer - record it!**
 
-✅ **Practiced all 3 questions?** Check: [ ]
+✅ **Practiced all 3 questions?** Check: [✅]
 
 ---
 
@@ -1456,7 +1454,9 @@ Record yourself - try to speak for 5 minutes! If you only manage 3-4 minutes on 
 - Business English Pod: https://www.youtube.com/@BusinessEnglishPod
 - Learn English: https://www.youtube.com/@bbclearningenglish
 
-✅ **Watched and learned?** Check: [ ]
+https://www.youtube.com/watch?v=AKUxbgjR9sg
+
+✅ **Watched and learned?** Check: [✅]
 
 ---
 
@@ -1530,7 +1530,7 @@ Why? Because:
 
 # 📅 DAY 6 & 7: WEEKEND POWER PRACTICE! 🎉
 
-**Date (Day 6):** ___________  
+**Date (Day 6):** 06-01-2026  
 **Date (Day 7):** ___________
 
 **Mission:** Review Week 1, strengthen skills, prepare for Week 2!  
@@ -1553,9 +1553,29 @@ I LOVE learning English!"
 
 **Deep breathing × 3**
 
-✅ **Motivated?** Check: [ ]
+✅ **Motivated?** Check: [✅]
 
 ---
+
+I promise I won't bang on your door again.
+[chuckling awkwardly] You're funny.
+-[splats] -[gasps]
+referring
+It's basically merde,
+You're piggybacking off the ad campaign.
+We work with very exclusive brands.
+And they require mystery, and... [scoffs]
+You're... You're very... very obvious.
+I have a perspective that you will never understand
+because, no, I'm not sophisticated or French,
+That slouchy, sexy, je ne sais quoi thing.
+Well, it's... it's very symmetrical.
+Not literally my nose.
+A nose is what we call the perfumer, the one who composes the scent.
+induce
+I'm curious.
+Sometimes I just get a little over enthusiastic,
+And, of course, with the right chemistry, it can be an aphrodisiac.
 
 ### STEP 2: Start Episode 2! (15 minutes)
 
