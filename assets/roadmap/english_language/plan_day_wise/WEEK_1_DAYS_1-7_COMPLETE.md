@@ -1557,26 +1557,6 @@ I LOVE learning English!"
 
 ---
 
-I promise I won't bang on your door again.
-[chuckling awkwardly] You're funny.
--[splats] -[gasps]
-referring
-It's basically merde,
-You're piggybacking off the ad campaign.
-We work with very exclusive brands.
-And they require mystery, and... [scoffs]
-You're... You're very... very obvious.
-I have a perspective that you will never understand
-because, no, I'm not sophisticated or French,
-That slouchy, sexy, je ne sais quoi thing.
-Well, it's... it's very symmetrical.
-Not literally my nose.
-A nose is what we call the perfumer, the one who composes the scent.
-induce
-I'm curious.
-Sometimes I just get a little over enthusiastic,
-And, of course, with the right chemistry, it can be an aphrodisiac.
-
 ### STEP 2: Start Episode 2! (15 minutes)
 
 **What to watch:**
@@ -1590,7 +1570,7 @@ And, of course, with the right chemistry, it can be an aphrodisiac.
 1. First time: Just enjoy
 2. Second time: Pause and note new words
 
-✅ **Watched Episode 2 start?** Check: [ ]
+✅ **Watched Episode 2 start?** Check: [✅]
 
 ---
 
@@ -1624,7 +1604,7 @@ From the scene you just watched, write down 5-7 NEW words you haven't learned ye
    MY sentence: _____________
 ```
 
-✅ **Found new words?** Check: [ ]
+✅ **Found new words?** Check: [✅]
 
 ---
 
@@ -1641,13 +1621,13 @@ Close your notebook. Try to remember:
 - 5 words from Day 4
 - 5 words from Day 5
 
-**How many could you remember?** _____ / 25
+**How many could you remember?** 32 / 33
 
 If less than 15: Review them again!  
 If 15-20: Great job!  
 If 21-25: YOU'RE A STAR! ⭐
 
-✅ **Reviewed?** Check: [ ]
+✅ **Reviewed?** Check: [✅]
 
 ---
 
@@ -1670,7 +1650,7 @@ If 21-25: YOU'RE A STAR! ⭐
 
 **Speak for 5-7 minutes! Use as many of your learned words as possible!**
 
-✅ **Recorded?** Check: [ ]
+✅ **Recorded?** Check: [✅]
 
 ---
 
@@ -1688,7 +1668,7 @@ If 21-25: YOU'RE A STAR! ⭐
 
 **Goal:** Make learning enjoyable!
 
-✅ **Watched?** Check: [ ]
+✅ **Watched?** Check: [✅]
 
 ---
 
@@ -1734,7 +1714,7 @@ I can speak for 5+ minutes!
 I changed my life this week!  
 WEEK 2, I'M COMING FOR YOU!"
 
-✅ **Pumped up?** Check: [ ]
+✅ **Pumped up?** Check: [✅]
 
 ---
 
@@ -1746,7 +1726,7 @@ WEEK 2, I'M COMING FOR YOU!"
 
 Watch twice, find 5 more new words!
 
-✅ **Watched?** Check: [ ]
+✅ **Watched?** Check: [✅]
 
 ---
 
@@ -1754,7 +1734,7 @@ Watch twice, find 5 more new words!
 
 Add 5 more words to your collection!
 
-✅ **Wrote?** Check: [ ]
+✅ **Wrote?** Check: [✅]
 
 ---
 
