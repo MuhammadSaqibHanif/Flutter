@@ -1,6 +1,33 @@
-## See these daily
+- **Think in English all day** - See a cup? Think "cup". Hungry? Think "I am hungry"
+- **THINK IN ENGLISH** - stop translating from Urdu
+- Chat with a native or fluent speaker for 10–15 minutes
+- Use vocabulary.
+- Listen to yourself
+- Practice while doing chores
+
+---
+
+# 🎯 HOMEWORK FOR TONIGHT & TOMORROW MORNING
+
+**Tonight (5 minutes before sleep):**
+1. Think about today's 5 words
+2. Try to remember them without looking
+3. Feel proud of yourself!
+
+**Tomorrow morning (when you wake up):**
+1. Say your 5 words out loud
+2. Try to make 1 sentence with each word
+3. Then start Day 2!
+
+**Before you sleep tonight, say:**
+"I completed Day _! I am proud of myself! Tomorrow I will do even better!"
+**Say before sleeping:**
+"I completed Day 2! I now know 10 English words! I am making progress every day! I am proud of myself!"
+
+---
+
+## See these daily 
 **assets/roadmap/english_language/plan_section_wise/1 - IMPORTANT NOTES - READ EVERY MORNING.md**
-**assets/roadmap/english_language/plan_section_wise/11 - MOTIVATION & TIPS FOR SUCCESS.md**
 **assets/roadmap/english_language/plan_section_wise/13 - QUICK REFERENCE GUIDE.md**
 
 ## See these once in a week (Sunday day end or Monday day starts)
@@ -22,22 +49,19 @@ https://claude.ai/chat/447d9e92-505c-40fb-b5ee-9bfc797dd1c8
 
 ---
 
-## 🎯 What's in Each Day
+### When You Feel Stuck
 
-Every day has the SAME structure (so it's easy!):
+**Remember:**
 
-1. **Morning Motivation** (5 min) - Get energized!
-2. **Watch Emily in Paris** (5 min) - New scene
-3. **Deep Listen** (10 min) - Understand better
-4. **Shadow Speaking** (10 min) - Copy and practice
-5. **Write Vocabulary** (15 min) - Learn 5 new words
-6. **Review Previous Days** (5-10 min) - Don't forget!
-7. **Evening Recording** (15-20 min) - Speak yourself
-8. **Interview Practice** (10-15 min) - Get ready!
-9. **YouTube Learning** (10 min) - Extra practice
-10. **Bedtime Listening** (10 min) - Relax and absorb
+1. **Progress is not linear** - some days will feel harder than others
+2. **Mistakes are learning** - every error teaches you something
+3. **Consistency beats perfection** - practicing daily is more important than perfect practice
+4. **Everyone struggles** - even native speakers make mistakes
+5. **You're improving** - even if you can't see it, your brain is learning
 
-**Total: ~2 hours**
+- Keep a list of topics to talk about
+
+- Use contractions: "I'm" not "I am", "don't" not "do not"
 
 ---
 
@@ -167,26 +191,6 @@ Your goal is to be understood and to understand others. That's it. Perfection co
 9. "Every day, I get closer to my dream job"
 10. "I BELIEVE IN MYSELF!"
 
-### Quick Confidence Techniques (Use Anytime):
-
-**Before Speaking:**
-- Take 3 deep breaths (4 seconds in, 4 hold, 6 out)
-- Stand tall, shoulders back, smile
-- Say: "I can do this. I speak English well."
-- Remember: Everyone makes mistakes, even native speakers!
-
-**When Nervous:**
-- Close your eyes
-- Think: "This is just practice. Mistakes help me learn."
-- Smile (smiling relaxes you!)
-- Start speaking slowly
-
-**When You Make a Mistake:**
-- DON'T panic!
-- DON'T apologize too much
-- Just say: "Sorry, let me say that again..."
-- Continue confidently!
-
 ---
 
 # 📺 YOUR WATCHING SCHEDULE - OVERVIEW
@@ -210,8 +214,6 @@ Your goal is to be understood and to understand others. That's it. Perfection co
 - Emily in Paris - Season 2, Episodes 1-4
 - Focus: Complex conversations, fluency, confidence
 - YouTube: Advanced topics, real conversations
-
-**Note:** Each episode is 28-30 minutes. You'll watch 5-10 minute segments each day, so don't worry about watching full episodes in one sitting!
 
 ---
 
@@ -243,34 +245,6 @@ Your goal is to be understood and to understand others. That's it. Perfection co
 ✅ Think in English naturally!  
 
 ---
-
-# 📚 IMPORTANT LEARNING PRINCIPLES
-
-## The 4 Rules of This Plan:
-
-**Rule 1: CONSISTENCY > PERFECTION**
-- It's better to practice 30 minutes every day than 5 hours once a week
-- Never skip more than 1 day in a row
-- If you miss a day, just continue the next day - don't try to do 2 days in one!
-
-**Rule 2: SPEAK OUT LOUD ALWAYS**
-- Silent reading doesn't improve speaking
-- Always practice OUT LOUD
-- Record yourself frequently
-- Listen back to your recordings
-
-**Rule 3: STOP TRANSLATING FROM URDU**
-- Think in English directly
-- See a cup? Think "cup" in English
-- Hungry? Think "I am hungry" in English
-- Practice thinking in English throughout the day
-
-**Rule 4: USE WHAT YOU LEARN**
-- Don't just collect words - USE them!
-- Try to use new words in sentences same day
-- Practice new phrases immediately
-- Real-world use = Real learning
-
 ---
 ---
 ---
@@ -285,6 +259,24 @@ Your goal is to be understood and to understand others. That's it. Perfection co
 ---
 ---
 
+## 🎯 What's in Each Day
+
+Every day has the SAME structure (so it's easy!):
+
+1. **Morning Motivation** (5 min) - Get energized!
+2. **Watch Emily in Paris** (5 min) - New scene
+3. **Deep Listen** (10 min) - Understand better
+4. **Shadow Speaking** (10 min) - Copy and practice
+5. **Write Vocabulary** (15 min) - Learn 5 new words
+6. **Review Previous Days** (5-10 min) - Don't forget!
+7. **Evening Recording** (15-20 min) - Speak yourself
+8. **Interview Practice** (10-15 min) - Get ready!
+9. **YouTube Learning** (10 min) - Extra practice
+10. **Bedtime Listening** (10 min) - Relax and absorb
+
+**Total: ~2 hours**
+
+---
 
 ## ⏰ MORNING MINDSET (5 minutes) - Do RIGHT After Waking Up!
 
@@ -315,28 +307,17 @@ Say out loud: "Today I will learn _ new words, watch Emily in Paris, and speak f
 **What to do:**
 - Just WATCH and ENJOY
 - Don't pause yet
-- Don't worry if you don't understand everything
-- Just get a feel for the story
-- Notice Emily's expressions and emotions
-
-**Pro Tip:** Try to understand the general story. What is Emily's mood? Is she happy? Nervous? Excited?
 
 ---
 
 ## 👂 STEP 2: WATCH SAME SCENE - Deep Listen (10 minutes)
 
-**This time - different approach:**
-
-1. **PAUSE after every sentence** Emily says
+1. **PAUSE after every sentence**
 2. **READ the English subtitle carefully**
-3. **If you don't understand a word, write it down**
+3. **If you don't understand a word/phrase, write it down**
 4. **Press play again**
 5. **Listen to that sentence 2-3 times**
 6. **Move to next sentence**
-
-**Your Goal:** Understand as much as possible. It's okay if you only get 40-50% - this is normal on Day 1!
-
-**Keep a small notebook nearby!** Write down any words you want to learn.
 
 **Self-Check:** Do you understand more now than the first time? (The answer should be YES!) YES
 
@@ -344,20 +325,10 @@ Say out loud: "Today I will learn _ new words, watch Emily in Paris, and speak f
 
 ## 🗣️ STEP 3: SHADOW SPEAKING - Copy & Practice (10 minutes)
 
-**What is Shadow Speaking?**
-You listen to Emily speak, then you COPY her exactly - like her shadow!
-
 **Pick 5 sentences from the scene to practice:**
 
-**How to practice each sentence:**
-
-1. Play the sentence from Netflix
-2. PAUSE immediately
-3. Say it OUT LOUD exactly like Emily
-4. Try to copy:
-   - Her tone (happy? excited? nervous?)
-   - Her speed (fast or slow?)
-   - Her pronunciation
+1. Play, PAUSE
+3. Say it OUT LOUD, copy exactly like shadow
 5. Repeat the same sentence 3 times
 6. Move to next sentence
 
@@ -365,7 +336,6 @@ You listen to Emily speak, then you COPY her exactly - like her shadow!
 - Stand up while practicing! (helps your voice)
 - Smile while speaking (makes you sound better)
 - Don't be shy - speak LOUDLY
-- Copy Emily's energy and emotions!
 
 ---
 
@@ -498,56 +468,5 @@ Your sentences:
 - Let your brain absorb the sounds
 
 **Why this works:** Your brain learns even when you're relaxed!
-
----
-
-## 🌟 DAY _ COMPLETION CHECK!
-
-**Congratulations!** 🎉🎊🏆
-
-You finished Day _! You are already better than yesterday!
-
-**Quick Reflection (write this down):**
-
-1. How do I feel about Day _? 
-2. What was easy? 
-3. What was challenging?
-4. What am I proud of?
-5. What will I do better tomorrow? 
-
-**Reflection:**
-- I learned 7 new words today (should be 5!)
-- Total words I know now: 12 (should be 10!)
-- I spoke for 3 minutes today
-- I feel good about my progress
-
-**Before you sleep tonight, say:**
-"I completed Day _! I am proud of myself! Tomorrow I will do even better!"
-**Say before sleeping:**
-"I completed Day 2! I now know 10 English words! I am making progress every day! I am proud of myself!"
-
----
-
-# 🎯 HOMEWORK FOR TONIGHT & TOMORROW MORNING
-
-**Tonight (5 minutes before sleep):**
-1. Think about today's 5 words
-2. Try to remember them without looking
-3. Feel proud of yourself!
-
-**Tomorrow morning (when you wake up):**
-1. Say your 5 words out loud
-2. Try to make 1 sentence with each word
-3. Then start Day 2!
-
----
-
-**REMEMBER:**
-- You took a HUGE step today!
-- You showed up and did the work!
-- You are on your way to fluency!
-- I believe in you! 💪🌟
-
-**See you on Day _!** 🚀
 
 ═══════════════════════════════════════

@@ -21,6 +21,7 @@
 **When you make a mistake:**
 
 - Don't panic!
+- DON'T apologize too much
 - Say: "Sorry, let me rephrase that..."
 - Continue confidently
 

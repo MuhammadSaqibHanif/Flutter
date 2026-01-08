@@ -1741,17 +1741,99 @@ Add 5 more words to your collection!
 ### STEP 4: Complete Week 1 Vocabulary Count (10 minutes)
 
 **Count ALL words you've learned:**
-- Days 1-5: 25 words
-- Day 6: ___ words
-- Day 7: ___ words
+- Days 1-5: 33 words
+- Day 6: 9 words
+- Day 7: 6 words
 
-**TOTAL WEEK 1 WORDS: _______**
+**TOTAL WEEK 1 WORDS: 48**
 
 **Read them ALL out loud!**
 
-✅ **Counted?** Check: [ ]
+✅ **Counted?** Check: [✅]
 
 ---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+------
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+
+START HERE
+
 
 ## 🎤 AFTERNOON (45 minutes)
 
