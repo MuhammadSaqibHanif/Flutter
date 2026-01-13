@@ -9,20 +9,16 @@
 
 # 🎯 HOMEWORK FOR TONIGHT & TOMORROW MORNING
 
-**Tonight (5 minutes before sleep):**
-1. Think about today's 5 words
+**5 minutes before sleep:**
+1. Think about today's vocabulary
 2. Try to remember them without looking
 3. Feel proud of yourself!
+"I completed Day _!, I now know __ English words! I am making progress every day! I am proud of myself! Tomorrow I will do even better!"
 
-**Tomorrow morning (when you wake up):**
-1. Say your 5 words out loud
+**morning (when you wake up):**
+1. Say your vocabulary out loud
 2. Try to make 1 sentence with each word
 3. Then start Day 2!
-
-**Before you sleep tonight, say:**
-"I completed Day _! I am proud of myself! Tomorrow I will do even better!"
-**Say before sleeping:**
-"I completed Day 2! I now know 10 English words! I am making progress every day! I am proud of myself!"
 
 ---
 
@@ -87,16 +83,6 @@ https://claude.ai/chat/447d9e92-505c-40fb-b5ee-9bfc797dd1c8
 - Don't stress about mistakes
 - Celebrate small wins
 - Be proud of yourself!
-
----
-
-## 📞 Remember
-
-- One day at a time ✅
-- Follow the steps ✅
-- Don't skip ✅
-- Record yourself ✅
-- Believe in yourself ✅
 
 ---
 
