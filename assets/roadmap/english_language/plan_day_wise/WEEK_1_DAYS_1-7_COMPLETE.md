@@ -1752,88 +1752,6 @@ Add 5 more words to your collection!
 ✅ **Counted?** Check: [✅]
 
 ---
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
-------
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
----
-
-START HERE
-
 
 ## 🎤 AFTERNOON (45 minutes)
 
@@ -1863,7 +1781,7 @@ START HERE
 
 **Record it all! Don't stop!**
 
-✅ **Recorded 15 minutes?** Check: [ ]
+✅ **Recorded 15 minutes?** Check: [✅]
 
 ---
 
@@ -1875,16 +1793,16 @@ START HERE
 3. Compare!
 
 **Notice:**
-- Are you speaking more fluently?
-- Are you using more words?
-- Is your confidence higher?
+- Are you speaking more fluently? very little bit 
+- Are you using more words? very little bit
+- Is your confidence higher? yes
 
 **Write down 3 improvements you notice:**
-1. _______________________________
-2. _______________________________
+1. I feel as I do not consistent, that's why I do not do very good at now
+2. very little or minor improvement
 3. _______________________________
 
-✅ **Listened and compared?** Check: [ ]
+✅ **Listened and compared?** Check: []
 
 ---
 
@@ -1910,8 +1828,8 @@ START HERE
    _______________________________________
 
 6. **On a scale of 1-10, how confident do I feel speaking English now?**  
-   Before Day 1: ___  
-   After Day 7: ___
+   Before Day 1: 3  
+   After Day 7: 4
 
 7. **What surprised me most?**  
    _______________________________________
@@ -1933,11 +1851,11 @@ START HERE
 
 **Set your Week 2 goals:**
 
-1. My goal for Week 2: _______________________________
-2. I will practice every day: YES / NO
+1. My goal for Week 2: I should be consistent
+2. I will practice every day: YES
 3. I am ready for Week 2: YES!
 
-✅ **Prepared?** Check: [ ]
+✅ **Prepared?** Check: [✅]
 
 ---
 

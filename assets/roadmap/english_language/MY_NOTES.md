@@ -1,24 +1,40 @@
-- **Think in English all day** - See a cup? Think "cup". Hungry? Think "I am hungry"
-- **THINK IN ENGLISH** - stop translating from Urdu
-- Chat with a native or fluent speaker for 10–15 minutes
-- Use vocabulary.
-- Listen to yourself
-- Practice while doing chores
-
----
-
-# 🎯 HOMEWORK FOR TONIGHT & TOMORROW MORNING
+## 🎯 HOMEWORK FOR TONIGHT
 
 **5 minutes before sleep:**
 1. Think about today's vocabulary
 2. Try to remember them without looking
 3. Feel proud of yourself!
+```
 "I completed Day _!, I now know __ English words! I am making progress every day! I am proud of myself! Tomorrow I will do even better!"
+```
+---
 
-**morning (when you wake up):**
-1. Say your vocabulary out loud
-2. Try to make 1 sentence with each word
-3. Then start Day 2!
+## 🔥 DAILY MOTIVATION BOOSTER 🔥
+### Read This EVERY Single Morning!
+
+### Power Affirmations (Say These Out Loud Every Morning):
+1. "My English improves every single day"
+2. "I am confident when I speak English"
+3. "I learn from every mistake"
+4. "I practice with joy and enthusiasm"
+5. "I will achieve my English goals"
+6. "I am becoming fluent RIGHT NOW"
+7. "Nothing will stop me from success"
+8. "I am grateful for this opportunity"
+9. "Every day, I get closer to my dream job"
+10. "I BELIEVE IN MYSELF!"
+11. Say your vocabulary out loud
+12. Try to make 1 sentence with each word
+13. Then start Day 2!
+14. **Think in English all day** - See a cup? Think "cup". Hungry? Think "I am hungry"
+15. **Stop translating from Urdu**
+16. Use vocabulary
+17. Practice while doing chores
+
+---
+
+- Chat with a native or fluent speaker for 10–15 minutes
+- Listen to yourself
 
 ---
 
@@ -63,22 +79,7 @@ https://claude.ai/chat/447d9e92-505c-40fb-b5ee-9bfc797dd1c8
 
 ## 💡 Pro Tips
 
-### Tip 1: Don't Read Ahead!
-- Only read TODAY's section
-- Trust the process
-
-### Tip 2: Actually DO the Steps!
-- Don't just read - DO!
-- Record yourself (very important!)
-- Write the vocabulary (don't skip!)
-- Check the boxes ✅
-
-### Tip 3: If You Miss a Day
-- DON'T try to do 2 days in 1 day!
-- Just continue from where you stopped
 - Consistency matters more than perfection
-
-### Tip 4: Enjoy the Process!
 - Have fun with Emily in Paris
 - Don't stress about mistakes
 - Celebrate small wins
@@ -134,102 +135,9 @@ Your goal is to be understood and to understand others. That's it. Perfection co
 
 ---
 
-# 🔥 DAILY MOTIVATION BOOSTER 🔥
-## Read This EVERY Single Morning Before Starting!
 
-**Week 1 Motivation (Days 1-7):**
-- 🌟 "I am starting my English journey today!"
-- 💪 "Every word I learn is progress"
-- 🎯 "I will practice even when it's hard"
-- ✨ "My future self will thank me"
-- 🚀 "I am becoming fluent, one day at a time!"
-
-**Week 2 Motivation (Days 8-14):**
-- 🔥 "I completed Week 1! I can do anything!"
-- 💎 "I'm building a habit that will change my life"
-- 🎊 "Every mistake teaches me something new"
-- 🌈 "I speak better today than I did yesterday"
-- ⚡ "Nothing can stop me now!"
-
-**Week 3 Motivation (Days 15-21):**
-- 🏆 "Halfway done! I'm unstoppable!"
-- 🌟 "My confidence grows every single day"
-- 💪 "I understand more English than ever before"
-- 🎯 "I am dedicated to my goal"
-- ✨ "Success is closer than I think!"
-
-**Week 4 Motivation (Days 22-30):**
-- 🚀 "Final stretch! I'm almost there!"
-- 🎉 "I can speak English confidently now"
-- 💎 "I am so proud of how far I've come"
-- 🔥 "30 days will change my career forever"
-- 🏅 "I will finish what I started! I am a champion!"
-
-### Power Affirmations (Say These Out Loud Every Morning):
-1. "My English improves every single day"
-2. "I am confident when I speak English"
-3. "I learn from every mistake"
-4. "I practice with joy and enthusiasm"
-5. "I will achieve my English goals"
-6. "I am becoming fluent RIGHT NOW"
-7. "Nothing will stop me from success"
-8. "I am grateful for this opportunity"
-9. "Every day, I get closer to my dream job"
-10. "I BELIEVE IN MYSELF!"
 
 ---
-
-# 📺 YOUR WATCHING SCHEDULE - OVERVIEW
-
-**Week 1 (Days 1-7): FOUNDATION**
-- Emily in Paris - Season 1, Episodes 1-3
-- Focus: Basic conversations, introductions, daily life
-- YouTube: BBC Learning English basics
-
-**Week 2 (Days 8-14): CONFIDENCE BUILDING**
-- Emily in Paris - Season 1, Episodes 4-6  
-- Focus: Work conversations, asking questions
-- YouTube: Work vocabulary, pronunciation
-
-**Week 3 (Days 15-21): WORKPLACE MASTERY**
-- Emily in Paris - Season 1, Episodes 7-10
-- Focus: Presentations, meetings, professional communication
-- YouTube: Interview skills, business English
-
-**Week 4 (Days 22-30): FLUENCY & POLISH**
-- Emily in Paris - Season 2, Episodes 1-4
-- Focus: Complex conversations, fluency, confidence
-- YouTube: Advanced topics, real conversations
-
----
-
-# 🎯 YOUR 30-DAY SUCCESS MILESTONES
-
-## By End of Week 1 (Day 7):
-✅ Can introduce yourself for 3 minutes  
-✅ Know 35+ work-related words  
-✅ Can talk about daily routine  
-✅ Comfortable speaking alone  
-
-## By End of Week 2 (Day 14):
-✅ Can speak for 5-7 minutes without stopping  
-✅ Know 70+ vocabulary words  
-✅ Can ask questions confidently  
-✅ Can answer interview questions  
-
-## By End of Week 3 (Day 21):
-✅ Can speak for 10-12 minutes fluently  
-✅ Know 105+ vocabulary words  
-✅ Can describe work projects clearly  
-✅ Can handle work meetings in English  
-
-## By End of Week 4 (Day 30):
-✅ Can speak for 15-20 minutes confidently  
-✅ Know 150+ vocabulary words  
-✅ Can give presentations in English  
-✅ Ready for job interviews in English  
-✅ Think in English naturally!  
-
 ---
 ---
 ---
@@ -264,31 +172,52 @@ Every day has the SAME structure (so it's easy!):
 
 ---
 
-## ⏰ MORNING MINDSET (5 minutes) - Do RIGHT After Waking Up!
+### STEP 1: GET ENERGIZED (5 minutes)!
 
-**Step 1:** Stand in front of your mirror
+**1:** Stand in front of your mirror
 
-**Step 2:** Look at yourself and SMILE 😊
+**2:** Look at yourself and SMILE 😊
 
-**Step 3:** Say these words OUT LOUD with confidence:
+**3:** Say these words OUT LOUD with confidence:
 - "Today is Day _ of my transformation!"
 - "I WILL speak English confidently!"
 - "I am capable of learning anything!"
 - "This is the beginning of my success!"
 - "I am excited and ready!"
 
-**Step 4:** Do the 4-4-6 breathing:
+**Week 2 Motivation (Days 8-14):**
+- 🔥 "I completed Week 1! I can do anything!"
+- 💎 "I'm building a habit that will change my life"
+- 🎊 "Every mistake teaches me something new"
+- 🌈 "I speak better today than I did yesterday"
+- ⚡ "Nothing can stop me now!"
+
+**Week 3 Motivation (Days 15-21):**
+- 🏆 "Halfway done! I'm unstoppable!"
+- 🌟 "My confidence grows every single day"
+- 💪 "I understand more English than ever before"
+- 🎯 "I am dedicated to my goal"
+- ✨ "Success is closer than I think!"
+
+**Week 4 Motivation (Days 22-30):**
+- 🚀 "Final stretch! I'm almost there!"
+- 🎉 "I can speak English confidently now"
+- 💎 "I am so proud of how far I've come"
+- 🔥 "30 days will change my career forever"
+- 🏅 "I will finish what I started! I am a champion!"
+
+**4:** Do the 4-4-6 breathing:
 - Breathe IN through nose (count 1, 2, 3, 4)
 - HOLD (count 1, 2, 3, 4)
 - Breathe OUT through mouth (count 1, 2, 3, 4, 5, 6)
 - Repeat 3 times
 
-**Step 5:** Set your intention for today:
+**5:** Set your intention for today:
 Say out loud: "Today I will learn _ new words, watch Emily in Paris, and speak for _ minutes. I can do this!"
 
 ---
 
-## 📺 STEP 1: WATCH SCENE - First Time (5 minutes)
+### 📺 STEP 2: WATCH SCENE - First Time (5 minutes)
 
 **What to do:**
 - Just WATCH and ENJOY
@@ -296,7 +225,7 @@ Say out loud: "Today I will learn _ new words, watch Emily in Paris, and speak f
 
 ---
 
-## 👂 STEP 2: WATCH SAME SCENE - Deep Listen (10 minutes)
+### 👂 STEP 3: WATCH SAME SCENE - Deep Listen (10 minutes)
 
 1. **PAUSE after every sentence**
 2. **READ the English subtitle carefully**
@@ -305,11 +234,9 @@ Say out loud: "Today I will learn _ new words, watch Emily in Paris, and speak f
 5. **Listen to that sentence 2-3 times**
 6. **Move to next sentence**
 
-**Self-Check:** Do you understand more now than the first time? (The answer should be YES!) YES
-
 ---
 
-## 🗣️ STEP 3: SHADOW SPEAKING - Copy & Practice (10 minutes)
+### 🗣️ STEP 4: SHADOW SPEAKING - Copy & Practice (10 minutes)
 
 **Pick 5 sentences from the scene to practice:**
 
@@ -325,7 +252,7 @@ Say out loud: "Today I will learn _ new words, watch Emily in Paris, and speak f
 
 ---
 
-## ✍️ STEP 4: VOCABULARY NOTEBOOK - Write & Learn (15 minutes)
+### ✍️ STEP 5: VOCABULARY NOTEBOOK - Write & Learn (15 minutes)
 
 **Open your notebook or phone notes app**
 
@@ -337,9 +264,9 @@ Say out loud: "Today I will learn _ new words, watch Emily in Paris, and speak f
 
 ---
 
-## 📚 STEP 5: REVIEW YESTERDAY'S WORDS (5 minutes)
+### 📚 STEP 6: REVIEW YESTERDAY'S WORDS (5 minutes)
 
-**Open your Day 1 vocabulary**
+**Open your vocabulary**
 
 **Without looking, can you remember?**
 
@@ -349,7 +276,7 @@ Say out loud: "Today I will learn _ new words, watch Emily in Paris, and speak f
 
 ---
 
-## 🎤 STEP 6: EVENING SESSION - Record Yourself (15 minutes)
+### 🎤 STEP 7: EVENING SESSION - Record Yourself (15 minutes)
 
 **Topic for today:** "___"
 
@@ -377,13 +304,11 @@ Start your recording and speak about the related topics points:
 
 ---
 
-## 💼 STEP 6: INTERVIEW PRACTICE (10 minutes)
+### 💼 STEP 8: INTERVIEW PRACTICE (10 minutes)
 
 **Common Interview Question:** "____"
 
 **Practice Answer (read out loud first):**
-
-_____
 
 **Now record YOUR version:**
 1. Open voice recorder
@@ -399,23 +324,7 @@ _____
 
 ---
 
-## 📖 STEP 7: QUICK VOCABULARY REVIEW (5 minutes)
-
-**Let's make sure you remember today's words!**
-
-**Without looking at your notes, try to remember:**
-
-**Now check your notes - were you right?**
-
-**Make 2 sentences using any 2 words from today:**
-
-Your sentences:
-1. _________________________________
-2. _________________________________
-
----
-
-## 🎧 STEP 8: YOUTUBE LEARNING (Optional - 10 minutes)
+### 🎧 STEP 9: YOUTUBE LEARNING (Optional - 10 minutes)
 
 **If you have time, watch ONE of these:**
 
@@ -435,7 +344,7 @@ Your sentences:
 
 ---
 
-## 🌙 STEP 9: BEFORE SLEEP - Passive Listening (10 minutes)
+### 🌙 STEP 10: BEFORE SLEEP - Passive Listening (10 minutes)
 
 **Best time:** While lying in bed before sleeping
 
