@@ -1,4 +1,4 @@
-## 🎯 HOMEWORK FOR TONIGHT
+## 🎯 NIGHT HOMEWORK
 
 **5 minutes before sleep:**
 1. Think about today's vocabulary
@@ -7,42 +7,79 @@
 ```
 "I completed Day _!, I now know __ English words! I am making progress every day! I am proud of myself! Tomorrow I will do even better!"
 ```
----
 
 ## 🔥 DAILY MOTIVATION BOOSTER 🔥
-### Read This EVERY Single Morning!
+### Read This EVERY Morning & Study Time!
 
-### Power Affirmations (Say These Out Loud Every Morning):
-1. "My English improves every single day"
-2. "I am confident when I speak English"
-3. "I learn from every mistake"
-4. "I practice with joy and enthusiasm"
-5. "I will achieve my English goals"
-6. "I am becoming fluent RIGHT NOW"
-7. "Nothing will stop me from success"
-8. "I am grateful for this opportunity"
-9. "Every day, I get closer to my dream job"
-10. "I BELIEVE IN MYSELF!"
-11. Say your vocabulary out loud
-12. Try to make 1 sentence with each word
-13. Then start Day 2!
-14. **Think in English all day** - See a cup? Think "cup". Hungry? Think "I am hungry"
-15. **Stop translating from Urdu**
-16. Use vocabulary
-17. Practice while doing chores
-
----
-
+#### Power Affirmations (Say These Out Loud):
+- My English improves every single day
+- I am confident when I speak English
+- I practice with joy and enthusiasm
+- I will achieve my English goals
+- I am becoming fluent RIGHT NOW
+- Nothing will stop me from success
+- I am grateful for this opportunity
+- Every day, I get closer to my dream job
+- I BELIEVE IN MYSELF!
+- Use vocabulary
+- Practice while doing chores
+- **Progress is not linear** - some days will feel harder than others
+- **Mistakes are learning** - every error teaches you something
+- **Consistency beats perfection** - practicing daily is more important than perfect practice
+- **Everyone struggles** - even native speakers make mistakes
+- **You're improving** - even if you can't see it, your brain is learning
+- Consistency matters more than perfection
+- Don't stress about mistakes
+- Celebrate small wins
+- Be proud of yourself!
+- Use contractions: "I'm" not "I am", "don't" not "do not"
+- Keep a list of topics to talk about
+- Say your vocabulary out loud
+- Try to make 1 sentence with each word
+- I Can Do This!
+- **You already know more English than you think**
+- **Every conversation makes you better**
+- **Confidence comes with practice**
+- **You're investing in your future**
+- The Secret to Success **Show up every day**
+- Even on days when you're tired, busy, or unmotivated - practice for at least 15 minutes. Consistency is everything.
+- **Don't aim for perfect English. Aim for clear communication.**
+- Your goal is to be understood and to understand others. That's it. Perfection comes with time, but communication starts now.
+- **Stop translating from Urdu → Start thinking in English**
+- **Learn like a child**: Children learn to speak by listening first, then copying sounds, and then forming their own sentences. They don't study grammar rules. Follow this natural method: **Listen → Copy → Create**
+- **Consistency is more important than perfection** - Practice daily, even if just 30 minutes. Your confidence will grow with each day of practice!. Do not skip a day
+- **Mistakes are your teachers** - Every error helps you improve
+- **Celebrate small wins daily** - Every new word and every sentence is a progress/victory!
+- **🚫 Don’t focus on perfect grammar** - focus on speaking clearly
+- Your biggest enemy is translating from Urdu in your head.
+1. **4-4-6 Breathing**: Breathe in (4 seconds) → Hold (4 seconds) → Breathe out (6 seconds)
+2. **Stand tall, smile slightly** - This changes your voice tone
+3. **Positive self-talk**: "My English improves every day. I can do this."
+4. **The 1-Minute Rule**: If you feel stuck, challenge yourself to speak about _any_ topic for just 60 seconds without stopping. Talk about your desk, the weather, your family. This builds fluency
+- **Thinking in "English pictures"** - Imagine the scene, not words. When you learn a chunk, attach a mental picture to it (not an Urdu word)
+- **Ban Urdu thoughts** - If you catch yourself translating, stop and restart in English
+- **Use simple words you know** - If a word is missing, describe it
+  - Example: "I used a thing to connect two parts" instead of stopping for "connector"
+- **Fillers to keep flow**: "Let me think…", "What's the word…?", "So basically…"
+- Check meanings in **English dictionary only** (not Urdu) (like Cambridge Dictionary)
+- **Record everything** - Your phone's voice recorder is your best friend. Listening to yourself helps you find and fix your own mistakes. It also shows you how much you are improving
+- **Mirror talk daily** - Try speaking for 5–10 minutes without stopping (even if you repeat yourself or make mistakes). looking at yourself; strong eye contact; slow pace
+- **Think in English all day** - See a cup? Think "cup". Hungry? Think "I am hungry"
 - Chat with a native or fluent speaker for 10–15 minutes
-- Listen to yourself
+- Engage in real conversation as often as possible.
+- Focus on chunks, not single words. Use those phrases directly into your interview answers and workplace talk.
+- **NEVER skip a day** - even 15 minutes is better than nothing
+- **ALWAYS record yourself** - listening back is crucial
+- **SPEAK OUT LOUD** - thinking isn't enough
+- **USE NEW WORDS** - don't just collect, use them!
+- **THINK IN ENGLISH** - stop translating from Urdu
+- **BE PATIENT** - language learning takes time
+- **CELEBRATE PROGRESS** - notice how far you've come
+- **STAY CONSISTENT** - this is the secret to success
 
 ---
 
-## See these daily 
-**assets/roadmap/english_language/plan_section_wise/1 - IMPORTANT NOTES - READ EVERY MORNING.md**
-**assets/roadmap/english_language/plan_section_wise/13 - QUICK REFERENCE GUIDE.md**
-
-## See these once in a week (Sunday day end or Monday day starts)
+## See these once in a week (Day 8, 11, 15, 21, 22, 30)
 **assets/roadmap/english_language/plan_section_wise/2 - YOUR 30-DAY JOURNEY OVERVIEW.md**
 **assets/roadmap/english_language/plan_section_wise/10 - PROGRESS TRACKING SYSTEM.md**
 
@@ -59,98 +96,6 @@
 If don't understand any day ask here
 https://claude.ai/chat/447d9e92-505c-40fb-b5ee-9bfc797dd1c8
 
----
-
-### When You Feel Stuck
-
-**Remember:**
-
-1. **Progress is not linear** - some days will feel harder than others
-2. **Mistakes are learning** - every error teaches you something
-3. **Consistency beats perfection** - practicing daily is more important than perfect practice
-4. **Everyone struggles** - even native speakers make mistakes
-5. **You're improving** - even if you can't see it, your brain is learning
-
-- Keep a list of topics to talk about
-
-- Use contractions: "I'm" not "I am", "don't" not "do not"
-
----
-
-## 💡 Pro Tips
-
-- Consistency matters more than perfection
-- Have fun with Emily in Paris
-- Don't stress about mistakes
-- Celebrate small wins
-- Be proud of yourself!
-
----
-
-## 🎥 YouTube Channels - Verified Links
-
-**BBC Learning English:**
-- Channel: https://www.youtube.com/@bbclearningenglish
-- Best for: Grammar, vocabulary, "6 Minute English" series
-- How to use: Search "BBC Learning English [topic]" when the plan says to watch
-
-**VOA Learning English:**
-- Channel: https://www.youtube.com/@VOALearningEnglish
-- Best for: News in slow English, "English in a Minute"
-- How to use: Search "VOA Learning English" + the topic mentioned in your day
-
----
-
-### You Can Do This!
-
-30 days seems short, but with dedicated practice, you WILL see significant improvement. Remember:
-
-- **You already know more English than you think**
-- **Every conversation makes you better**
-- **Native speakers make mistakes too**
-- **Confidence comes with practice**
-- **You're investing in your future**
-
-### The Secret to Success
-
-The secret is simple: **Show up every day**
-
-Even on days when you're tired, busy, or unmotivated - practice for at least 15 minutes. Consistency is everything.
-
-### My Promise to You
-
-If you follow this plan seriously for 30 days:
-
-- ✅ You WILL speak more confidently
-- ✅ You WILL understand English better
-- ✅ You WILL perform better in interviews
-- ✅ You WILL think less in Urdu
-- ✅ You WILL surprise yourself with your progress
-
-### One Last Thing
-
-**Don't aim for perfect English. Aim for clear communication.**
-
-Your goal is to be understood and to understand others. That's it. Perfection comes with time, but communication starts now.
-
----
-
-
-
----
----
----
----
----
----
----
----
----
----
----
----
----
----
 ---
 
 ## 🎯 What's in Each Day
@@ -332,12 +277,16 @@ Start your recording and speak about the related topics points:
 - Open YouTube
 - Search: "BBC Learning English - 6 Minute English for beginners"
 - Channel: https://www.youtube.com/@bbclearningenglish
+- Best for: Grammar, vocabulary, "6 Minute English" series
+- How to use: Search "BBC Learning English [topic]" when the plan says to watch
 - Watch any recent video about ______
 
 **Option 2: VOA Learning English**
 - Open YouTube  
 - Search: "VOA Learning English - English in a Minute"
 - Channel: https://www.youtube.com/@VOALearningEnglish
+- Best for: News in slow English, "English in a Minute"
+- How to use: Search "VOA Learning English" + the topic mentioned in your day
 - Watch 1-2 short videos
 
 **Just watch and learn - don't stress!**
