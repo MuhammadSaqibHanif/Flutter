@@ -47,7 +47,7 @@ WEEK 2, HERE I COME! 🚀"
 # DAY 8: WEEK 2 BEGINS - ASKING FOR HELP! 🚀
 # ========================================
 
-**Date:** ___________  
+**Date:** 21-Jan-2026  
 **Today's Mission:** Learn professional ways to ask questions and request help  
 **Episode:** Emily in Paris S1E3 "Sexy or Sexist"  
 **Time Needed:** 2 hours  
@@ -78,7 +78,7 @@ NOTHING STOPS ME!"
 **Week 2 Specific Intention:**
 "This week I will speak more confidently, ask questions without fear, and express my opinions clearly. I am ready to level up!"
 
-✅ **Morning power-up done?** Check: [ ]
+✅ **Morning power-up done?** Check: [✅]
 
 ---
 
@@ -112,7 +112,7 @@ Emily faces a new work challenge - a controversial advertising campaign! The Fre
 **Just watch first time - enjoy the story!**
 Don't pause, don't take notes yet. Just get a feel for the scene and the story. Notice the communication dynamics between Emily and her French colleagues.
 
-✅ **Watched Episode 3 opening scene?** Check: [ ]
+✅ **Watched Episode 3 opening scene?** Check: [✅]
 
 **Quick self-check:** Can you remember what the advertising campaign is about? (If not, don't worry - you'll watch again!)
 
@@ -144,6 +144,16 @@ Every time someone asks a question - PAUSE the video!
 
 ```
 QUESTION LOG - Episode 3 (00:00-06:00)
+
+What time is it there?
+Where are you?
+
+With the nausea, the sore boobs, and enough gas to launch a parade float,
+Jogging on the Seine
+It's gorgeous. You are living my life.
+how's = how does
+So far
+commandments
 
 Question 1: _______________________________
 Who asked: ______________

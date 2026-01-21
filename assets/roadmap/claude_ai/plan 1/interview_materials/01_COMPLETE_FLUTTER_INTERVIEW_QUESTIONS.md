@@ -1082,6 +1082,12 @@ counter.dispose();
 
 ---
 
+
+
+TILL HERE
+
+
+
 ## Architecture & Design Patterns (25 Questions)
 
 ### Q36: What is Clean Architecture?
