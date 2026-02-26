@@ -23,31 +23,31 @@ Test yourself on Q1-Q20 before moving to Day 2.
 
 **1. What is Flutter?**
 - A) A programming language
-- B) A UI framework
+- B) A UI framework ✅
 - C) A database
 - D) An operating system
 
 **2. What is the difference between Hot Reload and Hot Restart?**
-- A) Hot Reload is faster and keeps state
+- A) Hot Reload is faster and keeps state ✅
 - B) Hot Restart is faster and keeps state
 - C) They're the same thing
 - D) Hot Reload doesn't work with StatefulWidgets
 
 **3. What is BuildContext used for?**
 - A) To build widgets
-- B) To access ancestor widgets in the tree
+- B) To access ancestor widgets in the tree ✅
 - C) To store widget state
 - D) To handle user input
 
 **4. When should you use Keys?**
 - A) Always, for every widget
 - B) Never, they're not important
-- C) In lists where items can be reordered or deleted
+- C) In lists where items can be reordered or deleted ✅
 - D) Only with StatefulWidgets
 
 **5. What's the main difference between StatelessWidget and StatefulWidget?**
 - A) StatelessWidget is faster
-- B) StatefulWidget can change its internal state
+- B) StatefulWidget can change its internal state ✅
 - C) StatelessWidget can't have children
 - D) StatefulWidget is deprecated
 
@@ -56,7 +56,7 @@ Test yourself on Q1-Q20 before moving to Day 2.
 ### **Q6-Q8: State Management**
 
 **6. What does setState() do?**
-- A) Changes widget state and schedules a rebuild
+- A) Changes widget state and schedules a rebuild ✅
 - B) Only changes state without rebuilding
 - C) Rebuilds the entire app
 - D) Sends state to the server
@@ -64,12 +64,12 @@ Test yourself on Q1-Q20 before moving to Day 2.
 **7. Which lifecycle method is called only ONCE when a StatefulWidget is created?**
 - A) build()
 - B) setState()
-- C) initState()
+- C) initState() ✅
 - D) dispose()
 
 **8. In the three-tree architecture, which tree is immutable?**
 - A) Element tree
-- B) Widget tree
+- B) Widget tree ✅
 - C) Render tree
 - D) All of them
 
@@ -79,13 +79,13 @@ Test yourself on Q1-Q20 before moving to Day 2.
 
 **9. Which is TRUE about const?**
 - A) Value must be known at runtime
-- B) Value must be known at compile time
+- B) Value must be known at compile time ✅
 - C) Can be different for each instance
 - D) Same as final
 
 **10. Which can you use with DateTime.now()?**
 - A) const
-- B) final
+- B) final ✅
 - C) Both
 - D) Neither
 
@@ -95,31 +95,31 @@ Test yourself on Q1-Q20 before moving to Day 2.
 
 **11. What is a Future?**
 - A) A value available immediately
-- B) A value that will be available eventually
+- B) A value that will be available eventually ✅
 - C) A stream of values
 - D) A widget
 
 **12. What does the 'await' keyword do?**
-- A) Pauses execution until Future completes
+- A) Pauses execution until Future completes ✅
 - B) Makes function run faster
 - C) Cancels the Future
 - D) Creates a new Future
 
 **13. What's the difference between Future and Stream?**
 - A) No difference
-- B) Future is single value, Stream is multiple values
+- B) Future is single value, Stream is multiple values ✅
 - C) Future is faster
 - D) Stream is deprecated
 
 **14. When does FutureBuilder rebuild?**
 - A) Every frame
-- B) When the Future completes
+- B) When the Future completes ✅
 - C) Never
 - D) Only when setState is called
 
 **15. When does StreamBuilder rebuild?**
 - A) Once, when stream starts
-- B) Every time the stream emits data
+- B) Every time the stream emits data ✅
 - C) Only when setState is called
 - D) Never
 
@@ -130,30 +130,30 @@ Test yourself on Q1-Q20 before moving to Day 2.
 **16. When should you use ListView.builder instead of ListView?**
 - A) Always
 - B) Never
-- C) When you have a large list (>20 items)
+- C) When you have a large list (>20 items) ✅
 - D) When you have a small list (<5 items)
 
 **17. When should you use SingleChildScrollView?**
 - A) For large lists
-- B) For forms and small content that might overflow
+- B) For forms and small content that might overflow ✅
 - C) Never, always use ListView
 - D) Only with Column
 
 **18. What does Navigator.pop() do?**
 - A) Removes all screens
-- B) Goes back to previous screen
+- B) Goes back to previous screen ✅
 - C) Opens a new screen
 - D) Closes the app
 
 **19. What's the difference between MaterialApp and CupertinoApp?**
-- A) MaterialApp is for Android, CupertinoApp is for iOS design
+- A) MaterialApp is for Android, CupertinoApp is for iOS design ✅
 - B) They're exactly the same
 - C) CupertinoApp is deprecated
 - D) MaterialApp is faster
 
 **20. What does MediaQuery provide?**
 - A) Only screen size
-- B) Device and app window information (size, orientation, padding, etc.)
+- B) Device and app window information (size, orientation, padding, etc.) ✅
 - C) Only orientation
 - D) Network status
 
@@ -245,26 +245,26 @@ Widget build(BuildContext context) {
 
 ### **Theory Answers:**
 
-1. B (UI framework)
-2. A (Hot Reload is faster and keeps state)
-3. B (Access ancestor widgets)
-4. C (Lists where items can be reordered)
-5. B (StatefulWidget can change state)
-6. A (Changes state and rebuilds)
-7. C (initState - called once)
-8. B (Widget tree is immutable)
-9. B (Compile-time constant)
-10. B (final only)
-11. B (Value eventually available)
-12. A (Pauses until complete)
-13. B (Future single, Stream multiple)
-14. B (When Future completes)
-15. B (Every stream emission)
-16. C (Large lists >20)
-17. B (Forms and small content)
-18. B (Goes back)
-19. A (Material=Android, Cupertino=iOS)
-20. B (Device info: size, orientation, padding, etc.)
+1. B (UI framework) ✅
+2. A (Hot Reload is faster and keeps state) ✅
+3. B (Access ancestor widgets) ✅
+4. C (Lists where items can be reordered) ✅
+5. B (StatefulWidget can change state) ✅
+6. A (Changes state and rebuilds) ✅
+7. C (initState - called once) ✅
+8. B (Widget tree is immutable) ✅
+9. B (Compile-time constant) ✅
+10. B (final only) ✅
+11. B (Value eventually available) ✅
+12. A (Pauses until complete) ✅
+13. B (Future single, Stream multiple) ✅
+14. B (When Future completes) ✅
+15. B (Every stream emission) ✅
+16. C (Large lists >20) ✅
+17. B (Forms and small content) ✅
+18. B (Goes back) ✅
+19. A (Material=Android, Cupertino=iOS) ✅
+20. B (Device info: size, orientation, padding, etc.) ✅
 
 **Scoring:**
 - Count your correct answers
@@ -461,8 +461,8 @@ class ResponsiveContainer extends StatelessWidget {
 
 ## 📊 FINAL ASSESSMENT
 
-### **Theory Score: ___/20**
-### **Coding Score: ___/5**
+### **Theory Score: 20/20**
+### **Coding Score: 5/5**
 
 **Overall Performance:**
 
@@ -494,12 +494,12 @@ class ResponsiveContainer extends StatelessWidget {
 ## 🎯 BEFORE DAY 2
 
 **Checklist:**
-- [ ] Scored 18+ on theory quiz
-- [ ] Completed all coding challenges
-- [ ] Can explain Q1-Q20 in your own words
-- [ ] Understand your code from this morning
-- [ ] Feel confident with async/await
-- [ ] Can use MediaQuery for responsive UI
+- [✅] Scored 18+ on theory quiz
+- [✅] Completed all coding challenges
+- [✅] Can explain Q1-Q20 in your own words
+- [✅] Understand your code from this morning
+- [✅] Feel confident with async/await
+- [✅] Can use MediaQuery for responsive UI
 
 **If all checked:** ✅ Ready for Day 2!
 
