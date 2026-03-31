@@ -474,6 +474,21 @@ If no to any → More practice needed
 3. Specific company strategies (Document 05, Section 2)
 
 
+//
+
+Day 1: Q1-Q20 (Fundamentals)
+Day 2: Q21-Q40 (State Management Deep Dive)
+Day 3: Q41-Q60 (BLoC Pattern)
+Day 4: Q61-Q80 (Architecture & Performance)
+Day 5: Q81-Q100 (Networking & Testing)
+Day 6: Q101-Q120 (Advanced Dart)
+Day 7: Q121-Q140 (Review & Practice)
+Day 8: Q141-Q160 (System Design)
+Day 9: Q161-Q180 (Common Mistakes)
+Day 10: Q181-Q200 (Behavioral)
+Day 11-13: Build complete features
+Day 14: Mock interview & polish
+
 don't copy-paste for better learning!
 
 🎓 Study Tips
@@ -497,3 +512,4 @@ For Quiz (Evening):
 🚫 No cheating - test real knowledge
 📝 Review mistakes - understand why wrong
 🔄 Retry if needed - aim for 18+/20
+//
