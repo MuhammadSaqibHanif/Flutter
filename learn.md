@@ -112,8 +112,25 @@ Tips for image optimization
 
 ## From Revision
 
-Dart is an object oriented language because every value is an object. Objects are simply data structures in memory.
+- Dart is an object oriented language because every value is an object. Objects are simply data structures in memory.
 
-Profile Mode
+- Profile Mode
 
-Debugging tools
+- Debugging tools
+
+- Get some hint that an image is unnecessarily big because you're resizing it such that it's way smaller than the original image in the file, decrease the image, so that you're not unnecessarily loading a too-big image into memory.
+
+-  List<Todo> get _orderedTodos {
+    final sortedTodos = List.of(_todos);
+    sortedTodos.sort((a, b) {
+      final bComesAfterA = a.text.compareTo(b.text);
+      return _order == 'asc' ? bComesAfterA : -bComesAfterA;
+    });
+    return sortedTodos;
+  }
+
+- State objects would be connected to the widget objects, technically that's not entirely correct.
+Instead, state objects are connected to the element objects that are connected to the widgets.
+If widgets change their place, Flutter reuses elements and just updates the references, the pointers to widgets, but the state objects don't move around.
+The state doesn't move together with the widgets.
+State connected to the elements, which also didn't move around, but which reused and stayed in place and just got their widget reference updated.
