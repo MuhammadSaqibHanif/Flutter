@@ -1,39 +1,5 @@
 
-## 💰 TARGET COMPANIES (Apply to These)
 
-### **Tier 1 - FAANG (High Comp):**
-```
-1. Google ($300K-$500K+)
-2. Meta ($300K-$500K+)
-3. Amazon ($250K-$400K)
-4. Apple ($280K-$450K)
-5. Netflix ($350K-$600K+)
-```
-
-### **Tier 2 - High-Paying Tech (Great Comp):**
-```
-6. Stripe ($250K-$450K)
-7. Airbnb ($280K-$500K)
-8. Uber ($250K-$400K)
-9. Snap ($240K-$380K)
-10. Twitter/X ($250K-$400K)
-11. Salesforce ($220K-$380K)
-12. LinkedIn ($240K-$400K)
-```
-
-### **Tier 3 - Good Tech Companies:**
-```
-13. Shopify ($180K-$300K)
-14. Atlassian ($180K-$320K)
-15. Dropbox ($200K-$350K)
-16. Adobe ($200K-$350K)
-17. Coinbase ($200K-$400K)
-18. Twitch ($200K-$350K)
-19. DoorDash ($220K-$380K)
-20. Instacart ($200K-$350K)
-```
-
-**Apply to ALL 20+** for maximum leverage! 💪
 
 
 ## 🚨 COMMON PITFALLS TO AVOID
@@ -41,31 +7,8 @@
 1. ❌ **Don't study forever**
    - ✅ 2 months prep is enough (you have experience!)
 
-2. ❌ **Don't apply to only 2-3 companies**
-   - ✅ Apply to 20+ for negotiation leverage
-
-3. ❌ **Don't accept first offer**
-   - ✅ Get competing offers, negotiate
-
 4. ❌ **Don't skip mock interviews**
    - ✅ Do 3-5 minimum (find partners on Pramp)
-
-5. ❌ **Don't study in isolation**
-   - ✅ Join Flutter Discord, practice explaining
-
-6. ❌ **Don't burn out**
-   - ✅ 4-6 hours daily is enough, rest on Sundays
-
-## 🎉 SOON YOU'LL BE:
-
-✅ Working at a top tech company  
-✅ Making $200K-$500K+ per year  
-✅ Working remotely from Pakistan OR  
-✅ Relocated to US/Europe with visa  
-✅ Setting up your family for life  
-✅ Inspiring other Pakistani developers  
-
-**This is your moment. Go get it!** 🚀
 
 ## **Interview Prep**
 
