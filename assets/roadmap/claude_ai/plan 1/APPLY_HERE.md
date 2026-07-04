@@ -1,4 +1,4 @@
-## 💰 TARGET COMPANIES (Apply to These)
+## 💰 TARGET COMPANIES (Apply to These) (For Future)
 
 ### **Tier 1 - FAANG (High Comp):**
 ```
@@ -41,46 +41,9 @@
 
 ---
 
-### **LinkedIn Application Format:**
+## ANGELLIST / WELLFOUND
 
-```
-Subject: Application for [Job Title] - 1M+ Users Experience
-
-Hi [Recruiter Name],
-
-I just applied for the [Job Title] position at [Company].
-
-Quick highlights:
-• 6+ years Flutter development
-• Built Quranly (1M+ users, 4.8★ rating)
-• Currently leading 6-person team
-• Expert in Clean Architecture, BLoC, Riverpod
-
-I'm particularly excited about [something specific about the company/role from the job description].
-
-Would love to discuss how my experience aligns with your needs. Available for a call this week?
-
-Best regards,
-Muhammad Saqib Hanif
-+92 333-3471969
-ssaqibhanif777@gmail.com
-LinkedIn: [Your Profile]
-```
----
-
-## 📍 PLATFORM 3: ANGELLIST / WELLFOUND
-
-**Apply: 5-10 startups/day**
-
-**Why AngelList is GOLD:**
-- Startups pay well for talent
-- Less competition than LinkedIn
-- Direct access to founders
-- Fast hiring process (2-3 weeks)
-
----
-
-## 📍 PLATFORM 4: REMOTE JOB BOARDS
+## REMOTE JOB BOARDS
 
 ### **1. Remote.co**
 
@@ -90,9 +53,7 @@ LinkedIn: [Your Profile]
 
 ### **4. FlexJobs** (Paid but worth it)
 
----
-
-## 📍 PLATFORM 5: SPECIALIZED PLATFORMS
+## SPECIALIZED PLATFORMS
 
 ### **1. Turing.com** (AI-vetted jobs)
 
@@ -141,20 +102,5 @@ LinkedIn: [Your Profile]
 **4. Venturedive**
 
 **5. Tkxel**
-
----
-
-## 📍 COMPANY CAREER PAGES (Apply Directly)
-
-**Go directly to these companies:**
-
-1. **Stripe:** stripe.com/jobs
-2. **Revolut:** revolut.com/careers
-3. **N26:** n26.com/careers
-4. **Coinbase:** coinbase.com/careers
-5. **Spotify:** spotify.com/careers
-6. **Airbnb:** airbnb.com/careers
-7. **DoorDash:** doordash.com/careers
-8. **Instacart:** instacart.com/careers
 
 ---
