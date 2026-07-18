@@ -1,20 +1,3 @@
-# Your 14-Day Journey:
-
-Day 1: ✅ Q1-Q20 (Fundamentals) ← YOU ARE HERE
-Day 2: Q21-Q40 (State Management Deep Dive)
-Day 3: Q41-Q60 (BLoC Pattern)
-Day 4: Q61-Q80 (Architecture & Performance)
-Day 5: Q81-Q100 (Networking & Testing)
-Day 6: Q101-Q120 (Advanced Dart)
-Day 7: Q121-Q140 (Review & Practice)
-Day 8: Q141-Q160 (System Design)
-Day 9: Q161-Q180 (Common Mistakes)
-Day 10: Q181-Q200 (Behavioral)
-Day 11-13: Build complete features
-Day 14: Mock interview & polish
-
----
-
 # Job Apply Technique
 
 ## Same day — within 1 hour
@@ -25,17 +8,12 @@ linkedin - company page - People tab
 
 Who to target (in this priority order):
 
-- HR, Talent, Recruitment, people → most likely to act
-- Engineering Manager / CTO / VP Engineering → decision makers
+- HR / Recruiter / Talent Acquisition - Directly controls interview invites
+- Engineering Manager (Mobile) - The hiring decision maker
+- CTO / VP Engineering
+
 - Flutter / mobile developers → peers who can refer you
 - Any developer → even different tech stack, they can still refer
-- HR, talent, recruitment, people, flutter, information systems, IT, IS, mobile developers, Engineering Manager, CTO, VP Engineering
-
-Look for anyone with titles like:
-- HR Manager
-- Talent Acquisition
-- Recruiter
-- People Operations
 
 Also look for the job poster — LinkedIn often shows them on the job posting itself.
 
@@ -43,139 +21,13 @@ also check free message if yes send it
 
 Send connection request → when accepted → send message
 
-Connection Note
-```
-Hi Ziad, I applied for the Flutter Developer role at InnovationTeam and wanted to connect directly. I lead Quranly — 2M+ downloads. 
-Would love to connect!
-```
-
-Same day — after connecting
-
-Message the recruiter or job poster directly
-
-Once they accept your connection, send this template immediately:
-
-```
-Hi [Name],
-
-I just applied for the [Role] position and wanted to reach out directly.
-
-I am a Senior Flutter developer — lead engineer on Quranly (2M+ downloads).
-
-Would you be able to take a look at my application?
-
-LinkedIn: linkedin.com/in/muhammad-saqib-hanif
-Phone: +92 333-3471969
-
-Thank you!
-Saqib
-```
-
-For follow up
-
-```
-Hi [Name],
-
-I applied for the ___ role at ___ on Month 27th. I wanted to reach out as I understand you have worked with their HR team.
-
-I am a Senior Flutter developer — lead engineer on Quranly (2M+ downloads). I have 7 years experience and match your requirements very well.
-
-Could you check on my application or point me to the right person to follow up with?
-
-LinkedIn: linkedin.com/in/muhammad-saqib-hanif
-Phone: +92 333-3471969
-
-Thank you!
-Saqib
-```
-
-```
-Salam
-
-Hi Aatif, I applied for the Mobility - Senior Flutter UI/UX Developer role at Hamad Medical Corporation on April 23rd. I wanted to reach out as I understand you have worked with their HR team.
-
-Could you check on my application or point me to the right person to follow up with?
-
-I am a Senior Flutter developer — lead engineer on Quranly (2M+ downloads). I have 7 years experience and match your requirements very well.
-
-LinkedIn: linkedin.com/in/muhammad-saqib-hanif
-Phone: +92 333-3471969
-
-JazakAllah Khair,
-Saqib
-```
-
 ---
 
 Same day, find and message Karachi University alumni. LinkedIn shows alumni at the company on the job posting. Click "Show all" and send connection requests to every one of them. Once accepted, message them asking for a referral or advice.
 
 ---
 
-Same day, follow the company and engage. Follow the company page on LinkedIn. Like and leave a genuine comment on their most recent post. Hiring managers notice candidates who engage with their brand.
-Example comment:
-```
-"Great work [Company]! I recently applied for your Flutter Developer role and I'm excited about what you're building."
-```
-
----
-
 If company has visible email, email HR directly (only if email found). Only if you find a real HR or careers email — not a sales or info email. Attach your resume PDF and keep it short.
-
-**Email:**
-
-**To:** `hr@company.com`
-**Subject:**
-```
-Follow-up: Role title Application — Muhammad Saqib Hanif
-```
-**Body:**
-```
-Dear company name HR Team,
-
-I applied for the ___ role via LinkedIn on ______ 27, 2026 and wanted to follow up directly.
-
-I am a Senior Flutter Developer with 7 years experience. I am the lead engineer on Quranly — a Flutter app with 2M+ downloads.
-
-I am very interested in joining ____ and believe I am a strong match for this role.
-
-Could you please confirm if my application was received and let me know the next steps?
-
-Resume attached for reference.
-
-LinkedIn: linkedin.com/in/muhammad-saqib-hanif
-Phone: +92 333-3471969
-
-Thank you,
-Muhammad Saqib Hanif
-```
-
-Attach your resume PDF.
-
----
-
-**Try their careers page directly** HR email
-
----
-
-**Use their contact form**
-Go to `innovationteam.com/contact-us` and submit a message. Write:
-
-```
-Subject: Follow-up on Flutter Mobile Developer Application
-
-Hi,
-
-I applied for the Flutter Mobile Developer role via LinkedIn on April 27, 2026 and wanted to follow up. Could you please forward this to your HR team?
-
-I am a Senior Flutter Developer — lead engineer on Quranly (1M+ downloads, 0.10% crash rate). I believe I am a strong match for this role.
-
-LinkedIn: linkedin.com/in/muhammad-saqib-hanif
-Email: ssaqibhanif777@gmail.com
-Phone: +92 333-3471969
-
-Thank you,
-Muhammad Saqib Hanif
-```
 
 ---
 
@@ -183,96 +35,12 @@ Day 4–5 — if no response
 Send one follow-up message
 Only one follow-up. Don't send multiple messages — it looks desperate. Send this:
 
-```
-Hi [Name],
-
-Just following up on my application 
-for [Role] from [X] days ago.
-
-Still very interested in this 
-opportunity. Happy to jump on a 
-call at your convenience.
-
-Saqib | +92 333-3471969
-```
-
 ---
 
 Day 10+ — no response
 Move on mentally — keep applying
 If no response after 1 follow-up and 10 days — accept it and focus energy elsewhere. Never send more than 2 messages total to any one person. Your time is better spent on new applications.
 Never chase more than twice
-
----
-
-**LinkedIn Message**
-```
-Hi [Name],
-
-I applied for the [Role] position and wanted to reach out directly.
-
-I am a Senior Flutter developer — lead engineer on Quranly (2M+ downloads, 0.10% crash rate). Strong match for your requirements.
-
-Could you let me know the next steps in the process or if there is anything else you need from my side?
-
-LinkedIn: linkedin.com/in/muhammad-saqib-hanif
-Phone: +92 333-3471969
-
-Thank you!
-Saqib
-```
-
-**Email to HR:**
-```
-Subject: Application Follow-up — [Role] — Muhammad Saqib Hanif
-
-Dear HR Team,
-
-I applied for the [Role] position on [date] and wanted to follow up briefly.
-
-I am a Senior Flutter Developer — lead engineer on Quranly (1M+ downloads, 0.10% crash rate on Google Play Console).
-
-Could you please let me know the current status of my application and the next steps in the process?
-
-Resume attached for reference.
-
-LinkedIn: linkedin.com/in/muhammad-saqib-hanif
-Phone: +92 333-3471969
-
-Thank you,
-Muhammad Saqib Hanif
-```
-
----
-
-## Flutter devs of the applied Company
-
-**Connection request note (300 characters max):**
-
-```
-Hi [Name], I noticed you work at [Company] as a Flutter developer — I just applied for the Flutter role there. Would love to connect with a fellow Flutter dev!
-```
-
-**After they accept — send this message:**
-
-```
-Hi [Name],
-
-Thanks for connecting!
-
-I applied for the Flutter Developer role at [Company] and would love to hear about your experience on the team.
-
-A bit about me — I am the lead engineer on Quranly, a Flutter app with 2M+ downloads. Strong in BLoC, Clean Architecture, and full-stack Flutter development.
-
-If you feel I could be a good fit for the team, I would really appreciate it if you could put in a good word or refer me internally. A referral from someone inside makes a huge difference.
-
-Happy to share my resume or LinkedIn profile if helpful.
-
-LinkedIn: linkedin.com/in/muhammad-saqib-hanif
-
-Thank you so much!
-Saqib
-```
 
 ---
 
@@ -289,10 +57,5 @@ Lead with Quranly + 1M+ downloads in every message. That number stops people fro
 
 Referral beats resume
 An internal referral from any employee — even from a different team — moves you from 500 applicants to top 5.
-
-
-
-
-
 
 also check likedin posts - new joinee post
